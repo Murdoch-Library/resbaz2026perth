@@ -1,0 +1,29 @@
+-
+#  group: "Gold Sponsors"
+#  elements: 
+    # - {description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+    # - {link: "https://taylorandfrancis.com/", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
+-
+# group: "Silver Sponsors"
+#  elements: 
+    # - {description: "AARNet", link: "https://aarnet.edu.au/", imageUrl: "../img/organizers/aarnet.png"}
+    # - {description: "Springer Nature", link: "https://www.springernature.com/gp", imageUrl: "../img/organizers/logo-springernature.svg"}
+-
+#  group: "Bronze Sponsors"
+#  elements: 
+    # - {description: "AARNet", link: "https://aarnet.edu.au/", imageUrl: "../img/organizers/aarnet.png"}
+    # - {description: "Springer Nature", link: "https://www.springernature.com/gp", imageUrl: "../img/organizers/logo-springernature.svg"}
+-
+  group: "Hosting organisation"
+  elements: 
+   - {description: "Murdoch University",  link: "https://www.murdoch.edu.au/", imageUrl: "../img/organizers/MU_wordmark_2021_red_RGB.png", width: "120px"}
+-
+  group: "Organisers"
+  elements: 
+   - {description: "Curtin University", link: "https://www.curtin.edu.au/", imageUrl: "../img/organizers/curtin-university.png"}
+#   - {description: "Edith Cowan University", link: "https://www.ecu.edu.au/",  imageUrl: "../img/organizers/ecu-logo.png"}
+   - {description: "Murdoch University",  link: "https://www.murdoch.edu.au/", imageUrl: "../img/organizers/MU_wordmark_2021_red_RGB.png", width: "120px"}
+   - {description: "Pawsey Supercomputing Research Centre", link: "https://pawsey.org.au/", imageUrl: "../img/organizers/pawsey-logo-beige.png"}
+   - {description: "The University of Notre Dame", link: "https://www.notredame.edu.au/", imageUrl: "../img/organizers/University-of-Notre-Dame-Australia-transp-logo.png"}
+   - {description: "The University of Western Australia", link: "https://www.uwa.edu.au/", imageUrl: "../img/organizers/uwa-logo.svg"}
+-

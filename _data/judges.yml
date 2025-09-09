@@ -1,0 +1,11 @@
+- 
+  id: 0
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  thumbnailUrl: 
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}

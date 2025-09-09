@@ -1,0 +1,14 @@
+-
+  id: 101
+  name: 
+  surname: 
+  pronouns:
+  company: 
+  title: 
+  bio: ""
+  thumbnailUrl: r
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: 

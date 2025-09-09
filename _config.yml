@@ -1,0 +1,227 @@
+# Plugins
+plugins:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+future: true # Enable future posts (date > current date)
+
+
+# Site Settings
+title: "Research Bazaar Perth"
+email: "mailto:resbaz.perth@gmail.com"
+description: "Run by a team of volunteers from Perth universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where students and researchers come together to learn the latest in digital research tools and digital scholarship."
+baseurl: "/resbazperth2026"
+url: "https://Murdoch-Library.github.io/resbaz2026perth/"
+permalink: "/blog/:title"
+#googleAnalyticsTrackingId: "UA-43643469-5"
+#googleAnalyticsSiteUrl: "matty-plumski.github.io"
+#siteVerification: "xOlzoaCacKCBpEsxW4st40F89pI="
+
+
+# Organizer Info
+organizerName: "Murdoch University"
+organizerAlternateName: ""
+# organizerDescription: " "
+organizerEmail: "resbaz.perth@gmail.com" 
+organizerLogo: "/img/organizers/MU_wordmark_2021_red_RGB.png"
+organizerLink: "https://www.murdoch.edu.au"
+
+# Head
+metaKeywords: "conference, event, resbaz, research, bazaar, perth, meanjin, western australia, digital, skills, upskilling, hdr, ecr, eresearch, resbazperth, resbazbris"
+twitterAccount: "@ResBazQld"
+instagramAccount: "@ResBazQld"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+
+# Documents
+#c4pUrl: "mailto:"
+c4sponsorsUrl: "https://www.murdoch.edu.au"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ #- {permalink: "/registration/", text: "Register"}
+ #- {permalink: "/news/", text: "News"}
+ #- {link: "", text: "Get involved"}
+ #- {link: "", text: "Keep me informed"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/sessions/", text: "Sessions"}
+ - {permalink: "/information/", text: "Information"}
+ - {permalink: "/partners/", text: "Sponsors"}
+ - {permalink: "/cod/", text: "Code of Conduct"}
+
+#bottomNavigationLinks:
+# - {link: "", text: "Get involved - volunteer here!"}
+#rightNavigationButtons:
+# - {link: "", text: "Get involved - volunteer here!"}
+
+# Hero Block
+heroImage: "MU_bushcourt.png"
+heroTitle: "Research Bazaar Perth"
+eventDate: "23rd-25th Jul 2026 - Perth, Murdoch University"
+
+
+
+# About Block
+aboutTitle: "About ResBaz Perth"
+aboutSubtitle: "A festival of digital research"
+aboutText: "<p>ResBaz is more than a conference - it's a three-day festival of digital research training, where researchers from all disciplines come together to learn new skills in an interactive, collaborative and - above all - fun setting. Featuring workshops, talks, discussion sessions, networking and plenty of social activities, ResBazPerth provides participatory training spanning nearly fifty different topics of cutting-edge digital research tools and techniques.</p> <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p> <p><br><b><center>In 2026, ResBaz Perth is being hosted by Murdoch University between <br> 23rd - 25th June 2026.</b></center> </p> <p><br><b><h3>Organising Committee</h3></b><br><p><b>Murdoch University:</b> Emilia Bell, Kaitlyn Houston, Siobhon Egan, Reika Masuda, Kylie Stevenson,Alasdair Macdonald. </p><p><b>Curtin University:</b> Valentina Tiporlini, Marcus Whelband, John Brown, Rachel Taylor, Ranjodh Singh. </p><p><b>Pawsey Supercomputing Research Centre:</b> Ludovic Capelli, Aditi Subramanya. </p><p><b>The University of Notre Dame:</b> Jack Howard. </p><p><b>The University of Western Australia:</b> Rose Inglis, Dave Edwards. </p>"
+
+# Statistic Block
+# statisticBlockImage: "statistic.jpg"
+# statisticBlock:
+#  - {count: "100", specialCharacter: "+", info: "attendees", detail: ""}
+#  - {count: "50", specialCharacter: "+", info: "hours", detail: ""}
+#  - {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
+#  - {count: "3", specialCharacter: "", info: "parallel streams", detail: ""}
+
+# Latest News Block
+# latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "Wattle_ResbazQld_NathCampus.jpg"
+rockstarSpeakersCount: 3
+rockstarSpeakersTitle: "Keystory speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Murdoch University"
+eventLocationLink: "https://www.openstreetmap.org/?#map=17/-32.067461/115.833820"
+eventStreetAddress: "90 South Street"
+eventAddressLocality: "Murdoch"
+eventAddressLocalityRegion: " WA"
+eventPostalCode: "6150"
+eventAddressCountry: "Australia"
+eventStartTime: ""
+eventDoorTime: ""
+eventEndTime: ""
+eventPlaceCoordinates: "-32.067461, 115.833820"
+mapCenterCoordinates: "-32.067461, 115.833820"
+mapMobileCenterCoordinates: "-32.067461, 115.833820"
+#
+# Venue Block
+# venueBlockTitle: "Past Events"
+# venueBigImage: "wisteria.jpg"
+# venueSmallImage2: "wisteria.jpg"
+# venueSmallImage1: "wisteria.jpg"
+# venueSmallImage3: "wisteria.jpg"
+# venueTitle: "ResBaz 2022 "
+# venueFeatures: ["Mix of online and in-person events", "Network and collaborate","Sessions streamed across Queensland"]
+
+# Tweets Feed Block
+#tweetsFeedImage: "PurpleF_ResbazQld_NathCampus.jpg"
+#tweetsFeedTitle: "What's the latest?"
+#twitterHashTag: "ResBazQld"
+#twitterFeed: "https://twitter.com/ResBazQld"
+
+# Partners Block
+# organizersTitle: "Organisers"
+# partnersTitle: "Partners"
+# partnersC4sponsorsButton: "See you next year!"
+# partnersLink: ""
+
+# Subscribe Block
+# subscribeImage: "subscribe.jpg"
+# subscribeTitle: "Subscribe for updates"
+# subscribeAction: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform"
+# subscribeInfo: ""
+
+# Tickets Block
+# ticketsTitle: "Pricetable"
+# ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+# ticketsOffers: -
+#  name: "Early Bird"
+#   price: " "
+#  priceCurrency: " "
+#  ticketsNumber: " "
+#  ribbon: "-5%"
+#   buyButtonLink: " "
+#  buyButtonText: " "
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-25T10:00"
+# validThrough: "2014-09-30T23:59"
+#  -
+#   name: "Last Chance"
+#   price: " "
+#  priceCurrency: " "
+#   ticketsNumber: " "
+#   ribbon: "-20%"
+#  featured: true
+#   buyButtonLink: " "
+#   buyButtonText: "Buy Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-10-01T00:00"
+#   validThrough: "2014-10-23T23:59"
+#   disabled: true
+# -
+#   name: "Student"
+#   price: " "
+#   priceCurrency: " "
+#   ticketsNumber: " "
+#   buyButtonLink: " /"
+#   buyButtonText: "Buy Now"
+#   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-20T10:00"
+#  validThrough: "2014-10-23T23:59"
+#  soldOut: true
+#   soldOutText: "Sold Out"
+
+# Footer
+socialLinks:
+# - {link: "", icon: "mastodon"}
+# - {link: "", icon: "instagram"}
+# - {link: "", icon: "linkedin"}
+ - {link: "https://www.murdoch.edu.au/", icon: "site"}
+ - {link: "https://github.com/Murdoch-Library/resbaz2026perth", icon: "github"}
+footerBlocks:
+ -
+  #title: "Logo Customisation"
+#  links:
+#   - {link: "https://www.linkedin.com/in/alexandra-gloria-9b703814a/", text: "Logo customisations by Alex Gloria"}
+ -
+#  title: "National ResBaz Sponsors"
+#  links:
+#   - {link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", text: "Gale", imageUrl: "../img/organizers/gale_trans.png"}
+#   - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+ -
+#  title: "Gold Sponsors"
+#  links:
+#   - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+#   - {link: "https://taylorandfrancis.com/", text: "Taylor & Francis", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
+ -    
+#  title: "Silver Sponsor"
+#  links:
+    # - {link: "https://aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
+    # - {link: "https://www.springernature.com/gp", text: "Springer Nature", imageUrl: "../img/organizers/logo-springernature.svg"}
+ -  
+  title: "Collaborating Institutes"
+  links:
+   - {text: "Curtin University", description: "Curtin", link: "https://www.curtin.edu.au/", imageUrl: "../img/organizers/curtin-university.png"}
+  # - {text: "Edith Cowan University", description: "ECU", link: "https://www.ecu.edu.au/", #imageUrl: "../img/organizers/ecu-logo.png"}
+   - {text: "Murdoch University", description: "MU", link: "https://www.murdoch.edu.au/", imageUrl: "../img/organizers/MU_wordmark_2021_red_RGB.png"}
+   - {text: "Pawsey Supercomputing Research Centre", description: "Pawsey", link: "https://pawsey.org.au/", imageUrl: "../img/organizers/pawsey-logo-beige.png"}
+   - {text: "The University of Notre Dame", description: "NDU", link: "https://www.notredame.edu.au/", imageUrl: "../img/organizers/University-of-Notre-Dame-Australia-transp-logo.png"}
+   - {text: "The University of Western Australia", description: "UWA", link: "https://www.uwa.edu.au/", imageUrl: "../img/organizers/uwa-logo.svg"}
+
+ -  
+  title: "Contacts"
+  links:
+   - {link: "mailto:resbaz.perth@gmail", text: "resbaz.perth@gmail.com"}
+  # - {link: "", text: "Volunteer as a helper for ResBaz"}
+  # - {link: "", text: "Submit a workshop for ResBaz"}
+
+# Blog
+# blogTitle: "Latest news"
+# blogCommentsEnabled: false
+# discusShortName: "resbazperth"
+
+# Speakers List Block
+showSessions: true
+showSpeakersBioFirst: true

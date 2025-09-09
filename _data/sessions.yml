@@ -1,0 +1,41 @@
+-
+  title: 
+  themes: []
+  id: 000
+  speakers: 
+  hidden: true
+  description: null  
+-
+  title: Registration
+  themes: []
+  id: 001
+  speakers: 
+  hidden: true
+  description:   
+-
+  title: Morning tea
+  themes: []
+  id: 002 
+  speakers: 
+  service: true
+  hidden: true
+  description: null
+-
+  title: Afternoon tea
+  themes: []
+  id: 003
+  speakers:
+  subtype:
+  service: true
+  hidden: true
+  description: null
+-
+  title: Lunch and Stalls
+  themes: []
+  id: 004
+  speakers:
+  subtype:
+  service:
+  hidden: true
+  description: null
+-

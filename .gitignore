@@ -1,0 +1,23 @@
+### General ###
+*.lock
+
+### Jekyll ###
+_site/
+
+### Sass ###
+.sass-cache
+
+### Google API automation secrets ###
+automation/gsheets_api/.*
+automation/gsheets_api/raw*
+automation/gsheets_api/*token*
+
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+# ignore Mac .DS_Store file#
+.DS_Store
+
+# ignore naggy font file
+fonts/desktop.ini
