@@ -1,9 +1,174 @@
 - 
   id: 0
-  name: ""
-  surname: ""
-  title: ""
-  thumbnailUrl: 
+  name: "Emilia"
+  surname: "Bell"
+  title: "Murdoch University"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: "Research Data Librarian"}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 1
+  name: "Kaitlyn"
+  surname: "Houston"
+  title: "Murdoch University"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: "Research Data Librarian"}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 2
+  name: "Siobhon"
+  surname: "Egan"
+  title: "Murdoch University"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: "Academic"}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 3
+  name: "Reika"
+  surname: "Masuda"
+  title: "Murdoch University"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: "Bioinformatician"}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 4
+  name: "Kylie"
+  surname: "Stevenson"
+  title: "Murdoch University"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: "Academic"}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 5
+  name: "Alasdair"
+  surname: "Macdonald"
+  title: "Murdoch University"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: "Research Office"}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 6
+  name: "Valentina"
+  surname: "Tiporlini"
+  title: "Curtin University"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: ""}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 7
+  name: "Marcus"
+  surname: "Whelband"
+  title: "Curtin University"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: ""}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 8
+  name: "John"
+  surname: "Brown"
+  title: "Curtin University"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: ""}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 9
+  name: "Rachel"
+  surname: "Taylor"
+  title: "Curtin University"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: ""}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 10
+  name: "Ranjodh"
+  surname: "Singh"
+  title: "Curtin University"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: ""}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 11
+  name: "Ludovic"
+  surname: "Capelli"
+  title: "Pawsey Supercomputing Research Centre"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: ""}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 12
+  name: "Aditi"
+  surname: "Subramanya"
+  title: "Pawsey Supercomputing Research Centre"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: ""}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 13
+  name: "Jack"
+  surname: "Howard"
+  title: "The University of Notre Dame"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: ""}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 14
+  name: "Rose"
+  surname: "Inglis"
+  title: "The University of Western Australia"
+  thumbnailUrl: ""
+  team: true
+  ribbon: 
+    - {abbr: "", title: ""}
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 15
+  name: "Dave"
+  surname: "Edwards"
+  title: "The University of Western Australia"
+  thumbnailUrl: ""
   team: true
   ribbon: 
     - {abbr: "", title: ""}

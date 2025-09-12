@@ -54,6 +54,7 @@ navigationLinks:
  - {permalink: "/information/", text: "Information"}
  - {permalink: "/partners/", text: "Sponsors"}
  - {permalink: "/cod/", text: "Code of Conduct"}
+# - {permalink: "/team/", text: "Team"}
 
 #bottomNavigationLinks:
 # - {link: "", text: "Get involved - volunteer here!"}
@@ -177,7 +178,7 @@ mapMobileCenterCoordinates: "-32.067461, 115.833820"
 socialLinks:
 # - {link: "", icon: "mastodon"}
 # - {link: "", icon: "instagram"}
-# - {link: "", icon: "linkedin"}
+ - {link: "https://www.linkedin.com/company/resbaz-perth/about/", icon: "linkedin"}
  - {link: "https://www.murdoch.edu.au/", icon: "site"}
  - {link: "https://github.com/Murdoch-Library/resbaz2026perth", icon: "github"}
 footerBlocks:
