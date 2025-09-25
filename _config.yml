@@ -205,7 +205,7 @@ footerBlocks:
   title: "Collaborating Institutes"
   links:
    - {text: "Curtin University", description: "Curtin", link: "https://www.curtin.edu.au/", imageUrl: "../img/organizers/curtin-university.png"}
-  # - {text: "Edith Cowan University", description: "ECU", link: "https://www.ecu.edu.au/", #imageUrl: "../img/organizers/ecu-logo.png"}
+   - {text: "Edith Cowan University", description: "ECU", link: "https://www.ecu.edu.au/", imageUrl: "../img/organizers/ecu-logo.png"}
    - {text: "Murdoch University", description: "MU", link: "https://www.murdoch.edu.au/", imageUrl: "../img/organizers/MU_wordmark_2021_red_RGB.png"}
    - {text: "Pawsey Supercomputing Research Centre", description: "Pawsey", link: "https://pawsey.org.au/", imageUrl: "../img/organizers/pawsey-logo-beige.png"}
    - {text: "The University of Notre Dame", description: "NDU", link: "https://www.notredame.edu.au/", imageUrl: "../img/organizers/University-of-Notre-Dame-Australia-transp-logo.png"}
