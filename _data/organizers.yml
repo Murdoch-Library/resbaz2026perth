@@ -1,6 +1,6 @@
 -
-#  group: "Sponsors"
-#  elements: 
+  group: "Sponsors"
+  elements: 
      - {description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/sponsors/ARDC_logo_RGB.png"}
      - {description: "Edith Cowan University", link: "https://ecu.edu.au", imageUrl: "../img/sponsors/ecu-logo.png"}
 
