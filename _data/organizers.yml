@@ -1,10 +1,15 @@
 -
-  group: "Sponsors"
+  group: "Platinum Sponsors"
+  elements: 
+     - {description: "Edith Cowan University", link: "https://ecu.edu.au", imageUrl: "../img/sponsors/ecu-logo.png"}
+     - {description: "Murdoch University", link: "https://www.murdoch.edu.au", imageUrl: "../img/organizers/MU_wordmark_2021_red_RGB.png"}
+
+-
+  group: "Gold Sponsors"
   elements: 
      - {description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/sponsors/ARDC_logo_RGB.png"}
-     - {description: "Edith Cowan University", link: "https://ecu.edu.au", imageUrl: "../img/sponsors/ecu-logo.png"}
+     - {description: "Gale", link: "https://www.gale.com", imageUrl: "../img/sponsors/Gale_Logo_rgb_orange_blue_small.png"}
 
-    # - {link: "https://taylorandfrancis.com/", imageUrl: "../img/organizers/TaylorFrancisLogo.png"}
 -
 # group: "Silver Sponsors"
 #  elements: 
@@ -28,4 +33,3 @@
    - {description: "Pawsey Supercomputing Research Centre", link: "https://pawsey.org.au/", imageUrl: "../img/organizers/pawsey-logo-beige.png"}
    - {description: "The University of Notre Dame", link: "https://www.notredame.edu.au/", imageUrl: "../img/organizers/University-of-Notre-Dame-Australia-transp-logo.png"}
    - {description: "The University of Western Australia", link: "https://www.uwa.edu.au/", imageUrl: "../img/organizers/uwa-logo.svg"}
--
