@@ -208,7 +208,7 @@ footerBlocks:
     # - {link: "https://aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
     # - {link: "https://www.springernature.com/gp", text: "Springer Nature", imageUrl: "../img/organizers/logo-springernature.svg"}
  -  
-  title: "Collaborating Institutes"
+  title: "Organisers"
   links:
    - {text: "Curtin University", description: "Curtin", link: "https://www.curtin.edu.au/", imageUrl: "../img/organizers/curtin-university.png"}
    - {text: "Edith Cowan University", description: "ECU", link: "https://www.ecu.edu.au/", imageUrl: "../img/organizers/ecu-logo.png"}
