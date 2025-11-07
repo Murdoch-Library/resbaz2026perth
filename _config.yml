@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/registration/", text: "Register"}
  #- {permalink: "/news/", text: "News"}
- #- {link: "", text: "Get involved"}
+ - {link: "https://forms.office.com/Pages/ResponsePage.aspx?id=G0wNwHvPk063xxAROpvCMCUe-dU06CxCp2hdIOxOreRUREQzN1BQT0FNQ09aQ1BOR1RBUjVENUhaMSQlQCN0PWcu", text: "Get involved"}
  #- {link: "", text: "Keep me informed"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
@@ -223,7 +223,7 @@ footerBlocks:
   links:
    - {link: "mailto:resbaz.perth@gmail", text: "resbaz.perth@gmail.com"}
   # - {link: "", text: "Volunteer as a helper for ResBaz"}
-  # - {link: "", text: "Submit a workshop for ResBaz"}
+   - {link: "https://forms.office.com/Pages/ResponsePage.aspx?id=G0wNwHvPk063xxAROpvCMCUe-dU06CxCp2hdIOxOreRUREQzN1BQT0FNQ09aQ1BOR1RBUjVENUhaMSQlQCN0PWcu", text: "Submit a workshop"}
 
 # Blog
 # blogTitle: "Latest news"
