@@ -17,11 +17,10 @@
   themes: []
   id: 002 
   speakers: 
-  service: true
   hidden: true
   description: null
 -
-  title: Afternoon tea
+  title: Lunch and Stalls
   themes: []
   id: 003
   speakers:
@@ -30,7 +29,7 @@
   hidden: true
   description: null
 -
-  title: Lunch and Stalls
+  title: Afternoon tea
   themes: []
   id: 004
   speakers:
@@ -38,4 +37,32 @@
   service:
   hidden: true
   description: null
+-
+  title: Morning session I
+  themes: []
+  id: 101
+  speakers: 
+  hidden: true
+  description:   
+  -
+  title: Morning session II
+  themes: []
+  id: 201
+  speakers: 
+  hidden: true
+  description:  
+  -
+  title: Afternoon session I
+  themes: []
+  id: 301
+  speakers: 
+  hidden: true
+  description:  
+  -
+  title: Afternoon session II
+  themes: []
+  id: 401
+  speakers: 
+  hidden: true
+  description: 
 -

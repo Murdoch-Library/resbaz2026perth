@@ -48,7 +48,7 @@ navigationLinks:
  #- {permalink: "/news/", text: "News"}
  - {link: "https://forms.office.com/Pages/ResponsePage.aspx?id=G0wNwHvPk063xxAROpvCMCUe-dU06CxCp2hdIOxOreRUREQzN1BQT0FNQ09aQ1BOR1RBUjVENUhaMSQlQCN0PWcu", text: "Get involved"}
  #- {link: "", text: "Keep me informed"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/information/", text: "Information"}
