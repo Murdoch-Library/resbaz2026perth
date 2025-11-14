@@ -21,3 +21,6 @@ ehthumbs.db
 
 # ignore naggy font file
 fonts/desktop.ini
+
+# ignore tmp file
+tmp
