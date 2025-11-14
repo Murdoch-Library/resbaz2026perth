@@ -9,6 +9,7 @@
   elements: 
      - {description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/logos/ARDC_logo_RGB.png"}
      - {description: "Gale", link: "https://www.gale.com", imageUrl: "../img/logos/Gale_Logo_rgb_orange_blue_small.png"}
+     - {description: "Clarivate", link: "https://clarivate.com/", imageUrl: "../img/logos/Clarivate_logo.jpg"}
 -
   group: "Silver Sponsors"
   elements: 

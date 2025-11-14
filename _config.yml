@@ -32,8 +32,8 @@ organizerLink: "https://www.murdoch.edu.au"
 
 # Head
 metaKeywords: "conference, event, resbaz, research, bazaar, perth, meanjin, western australia, digital, skills, upskilling, hdr, ecr, eresearch, resbazperth, resbazbris"
-twitterAccount: "@ResBazQld"
-instagramAccount: "@ResBazQld"
+twitterAccount: "@"
+instagramAccount: "@"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
 # Documents
@@ -202,6 +202,7 @@ footerBlocks:
   links:
    - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/logos/ARDC_logo_RGB.png"}
    - {link: "https://www.gale.com", text: "Gale", imageUrl: "../img/logos/Gale_Logo_rgb_orange_blue_small.png"}
+   - {link: "https://clarivate.com/", text: "Clarivate", imageUrl: "../img/logos/Clarivate_logo.jpg"}
  -    
   title: "Silver Sponsor"
   links:
