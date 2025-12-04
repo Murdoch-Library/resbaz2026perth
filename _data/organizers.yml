@@ -14,6 +14,7 @@
   group: "Silver Sponsors"
   elements: 
      - {description: "AARNet", link: "https://aarnet.edu.au/", imageUrl: "../img/logos/AARNet_logo_mono.jpg"}
+     - {description: "Curtin University", link: "https://www.curtin.edu.au/", imageUrl: "../img/logos/curtin-university.png"}
 -
 #  group: "Bronze Sponsors"
 #  elements: 

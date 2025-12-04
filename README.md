@@ -1,4 +1,4 @@
-# ResBaz Queensland website
+# ResBaz Perth website
 
 This website is based on the [ResBaz Auckland](https://resbaz.auckland.ac.nz/) template and updated site from [ResBaz QLD 2025](https://github.com/resbaz/resbaz2025qld/), a conference template created by Sam Kavanagh based largely on the Project Zeppelin / GDG DevFest 2014 site template.
 

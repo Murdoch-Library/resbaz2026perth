@@ -207,6 +207,7 @@ footerBlocks:
   title: "Silver Sponsor"
   links:
      - {link: "https://aarnet.edu.au/", text: "AARNet", imageUrl: "../img/logos/AARNet_logo_mono.jpg"}
+     - {link: "https://www.curtin.edu.au/", text: "Curtin University", imageUrl: "../img/logos/curtin-university.png"}
  -  
   title: "Organisers"
   links:
