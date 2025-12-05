@@ -14,7 +14,7 @@ This website is based on the [ResBaz Auckland](https://resbaz.auckland.ac.nz/) t
 2. Clone locally
 3. Update ```_config.yml```
 4. Select what content blocks do you need
-5. Push changes to ```gh-pages``` branch
+5. Push changes to ```gh-pages``` branch using `git push origin gh-pages`
 6. Enjoy your awesome site at ```http://[your github name].github.io/```
 
 **Note**: By default this template assumes you are going to be using a custom domain with it, and your files will be served from the root folder of this address. In order to deploy this site as a subdirectory, e.g. ```http://[your githubname].github.io/resbaz``` modify the `baseurl` field in `_config.yml` (in this example to `/resbaz`).
@@ -37,7 +37,11 @@ To start Jekyll run:
     jekyll serve -w
 ```
 
-*alternatively if you have multiple package versions installed, run* `bundle exec jekyll serve -w`
+*alternatively if you have multiple package versions installed, run*
+
+```bash
+bundle exec jekyll serve -w
+```
 
 Site will be available at http://127.0.0.1:4000/ or http://localhost:4000/ (on Windows)
 
