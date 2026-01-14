@@ -203,6 +203,8 @@ footerBlocks:
    - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/logos/ARDC_logo_RGB.png"}
    - {link: "https://www.gale.com", text: "Gale", imageUrl: "../img/logos/Gale_Logo_rgb_orange_blue_small.png"}
    - {link: "https://clarivate.com/", text: "Clarivate", imageUrl: "../img/logos/Clarivate_logo.jpg"}
+   - {link: "http://labarchives.com/", text: "LabArchives", imageUrl: "../img/logos/LabArchives-Logo-Dark-Qualifier.svg"}
+
  -    
   title: "Silver Sponsor"
   links:
