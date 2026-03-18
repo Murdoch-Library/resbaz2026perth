@@ -1,14 +1,44 @@
 -
   id: 101
-  name: 
-  surname: 
+  name: Prof. Peter
+  surname: Eastwood
   pronouns:
-  company: 
-  title: 
-  bio: ""
-  thumbnailUrl: r
-  rockstar: false
+  company: Murdoch University
+  title: Deputy Vice-Chancellor (Research and Innovation)
+  bio: "Professor Peter Eastwood is an experienced Australian biomedical research scientist who has built an internationally recognised research programme in sleep and respiratory physiology. He is currently the Deputy Vice Chancellor Research & Innovation at Murdoch University, WA. He has previously held appointments as: Dean of Research, College of Medicine & Public Health and Director, Flinders Health & Medical Research Institute at Flinders University, SA; a NHMRC Senior Research Fellow at the West Australian Sleep Disorders Research Institute, Sir Charles Gairdner Hospital, Professor at the School of Anatomy and Human Biology, University of Western Australia and Adjunct Professor at Curtin University of Technology. He is also Director of the Raine Study, Foundation Director of the Centre for Sleep Science at the University of Western Australia, President of the Australasian Sleep Association, immediate past Deputy Director of the Lung Institute of Western Australia, and immediate past Editor in Chief of Respirology, the major respiratory journal in the Asian Pacific."
+  thumbnailUrl: PeterEastwood.jpeg
+  rockstar: true
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://researchportal.murdoch.edu.au/esploro/profile/peter_eastwood_1
+-
+  id: 102
+  name: Alex
+  surname: Jenkins
+  pronouns:
+  company: WA Data Science Innovation Hub
+  title: Director
+  bio: "Alex Jenkins is the Director of the WA Data Science Innovation Hub (WADSIH), Chair & Founder of the Curtin AI in Research (CAIR) Group, and inaugural Member of the WA State Government’s AI Advisory Board. With an extensive background in digital technologies, Alex is dedicated to advancing the use of AI across Australian business, academia, and the public sector. His work emphasises leveraging AI to enhance education and improve lives, driving innovation and practical applications in diverse sectors. Alex is committed to ensuring that Australia remains at the forefront of AI adoption, elevating WADSIH to a national thought-leader in AI and fostering collaboration to promote AI’s transformative potential for societal benefit. He is also known for his impactful TEDx talk, ‘An AI Tutor for Every Child’, highlighting the potential of AI in revolutionising Australia’s education system"
+  thumbnailUrl: AlexJenkins.jpg
+  rockstar: true
   ribbon:
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+-
+  id: 103
+  name: Prof. Melanie
+  surname: Johnston-Hollitt
+  pronouns:
+  company: Curtin Institute for Data Science
+  title: Director
+  bio: "In her 20-year career, Prof Johnston-Hollitt has been involved in the design, construction, operation and governance of several major international radio telescopes, including the Low Frequency Array in the Netherlands, the Murchison Widefield Array (MWA) in Western Australia, and the billion-dollar Square Kilometre Array (SKA), which will be hosted in both Australia and South Africa. She was a founding member of the Board of Directors for the SKA Organisation, where she worked on the international governance and the scientific and technical aspects of the telescope. In particular, she led the Science Analysis Pipeline design for the SKA and contributed to the Science Data Processor pipeline. She is the immediate past director of the 65 million-dollar MWA radio telescope and spent 9 years involved in the project, including 6 years on the international executive board (4 years as board chair) and 3 years as the MWA Director. During her time as chair of the MWA board, Professor Johnston-Hollitt was responsible for the expansion of the MWA project to move from 11 research organisations over 3 countries with 112 individual researchers to 21 research organisations over 6 countries with 270 individual researchers. As MWA Director, she oversaw the third phase of the MWA project realised via the design and funding for the new ‘MWAX correlator’ – a GPU-based bespoke compute system. Her research interests span the intersection between radio astronomy, signal and image processing and big data analytics. She leads the galactic and extragalactic science team in the Curtin Institute for Radio Astronomy, who are exploiting the MWA and other telescopes to uncover the mysteries of the Universe.In August 2020, Professor Johnston-Hollitt has been appointed as the new Director of the Curtin Institute for Data Science (CIDS), leading a multi-disciplinary team of data scientists. The CIDS is a cross-disciplinary research accelerator based on the use of high-performance computing. In 2024, her role expanded with her appointment as Executive Director of both CIDS and Innovation Central Perth (ICP)."
+  thumbnailUrl: MelanieJohnston-Hollitt.png
+  rockstar: true
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+    - {abbr: "", title: "", url: ""}
+  social: https://datascience.curtin.edu.au/about-us/our-people/professor-melanie-johnston-hollitt/
+
+

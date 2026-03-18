@@ -11,6 +11,7 @@
      - {description: "Gale", link: "https://www.gale.com", imageUrl: "../img/logos/Gale_Logo_rgb_orange_blue_small.png"}
      - {description: "Clarivate", link: "https://clarivate.com/", imageUrl: "../img/logos/Clarivate_logo.jpg"}
      - {description: "LabArchives", link: "http://labarchives.com/", imageUrl: "../img/logos/LabArchives-Logo-Dark-Qualifier.svg"}
+     - {description: "Forrest Research Foundation", link: "https://forrestresearch.org.au/", imageUrl: "../img/logos/ForrestResearchFoundation.svg"}
 
 -
   group: "Silver Sponsors"
