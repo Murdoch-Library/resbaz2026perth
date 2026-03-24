@@ -49,7 +49,7 @@ navigationLinks:
  - {link: "https://forms.office.com/Pages/ResponsePage.aspx?id=G0wNwHvPk063xxAROpvCMCUe-dU06CxCp2hdIOxOreRUREQzN1BQT0FNQ09aQ1BOR1RBUjVENUhaMSQlQCN0PWcu", text: "Get involved"}
  #- {link: "", text: "Keep me informed"}
  - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/information/", text: "Information"}
  - {permalink: "/partners/", text: "Sponsors"}
@@ -86,7 +86,7 @@ aboutText: "<p>ResBaz is more than a conference - it's a three-day festival of d
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "Wattle_ResbazQld_NathCampus.jpg"
-rockstarSpeakersCount: 3
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Keystory speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
