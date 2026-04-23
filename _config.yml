@@ -44,7 +44,7 @@ c4sponsorsUrl: "https://www.murdoch.edu.au"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/registration/", text: "Register"}
+ - {permalink: "/registration/", text: "Register"}
  #- {permalink: "/news/", text: "News"}
  - {link: "https://forms.office.com/Pages/ResponsePage.aspx?id=G0wNwHvPk063xxAROpvCMCUe-dU06CxCp2hdIOxOreRUREQzN1BQT0FNQ09aQ1BOR1RBUjVENUhaMSQlQCN0PWcu", text: "Get involved"}
  #- {link: "", text: "Keep me informed"}
