@@ -50,7 +50,7 @@ navigationLinks:
  #- {link: "", text: "Keep me informed"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/sessions/", text: "Sessions"}
+ - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/information/", text: "Information"}
  - {permalink: "/partners/", text: "Sponsors"}
  - {permalink: "/cod/", text: "Code of Conduct"}

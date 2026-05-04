@@ -1,68 +1,517 @@
--
-  title: 
+- title:
   themes: []
-  id: 000
-  speakers: 
-  hidden: true
-  description: null  
--
-  title: Registration
-  themes: []
-  id: 001
-  speakers: 
-  hidden: true
-  description:   
--
-  title: Morning tea
-  themes: []
-  id: 002 
-  speakers: 
-  hidden: true
-  description: null
--
-  title: Lunch and Stalls
-  themes: []
-  id: 003
+  id: 0
   speakers:
-  subtype:
+  hidden: true
+  description:
+- title: Registration
+  themes: []
+  id: 1
+  speakers:
+  hidden: true
+  description:
+- title: Morning Tea
+  themes: []
+  id: 2
+  speakers:
+  hidden: true
+  description:
+- title: Lunch
+  themes: []
+  id: 3
+  speakers:
+  hidden: true
+  description:
   service: true
-  hidden: true
-  description: null
--
-  title: Afternoon tea
+- title: Afternoon Tea
   themes: []
-  id: 004
+  id: 4
   speakers:
-  subtype:
-  service:
   hidden: true
-  description: null
--
-  title: Morning session I
+  description:
+- id: 100
+  title: Room 1 (Informational Talk Room)
   themes: []
-  id: 101
-  speakers: 
+  speakers:
   hidden: true
-  description:   
-  -
-  title: Morning session II
+  description:
+- id: 101
+  title: Room 2 (Workshop/Hands On)
   themes: []
-  id: 201
-  speakers: 
+  speakers:
   hidden: true
-  description:  
-  -
-  title: Afternoon session I
+  description:
+- id: 102
+  title: Room 3 (Workshop/Hands On)
   themes: []
-  id: 301
-  speakers: 
+  speakers:
   hidden: true
-  description:  
-  -
-  title: Afternoon session II
+  description:
+- id: 103
+  title: 'Opening address & Welcome to Country'
+  themes:
+  - Keynote
+  speakers:
+  - 101
+  - 105
+  hidden: false
+  description:
+- id: 104
+  title: 'Keynote'
+  themes:
+  - Keynote
+  speakers:
+  - 104
+  hidden: false
+  description:
+- id: 105
+  title: Vim text editing for research
+  themes:
+  - Informational talk
+  speakers:
+  - 200
+  hidden: false
+  description: |-
+    Vim is a powerful, keyboard-driven text editor that enables fast and efficient editing, particularly in cloud-based environments where graphical tools are limited. Vim integrates well with tools such as LaTeX, Git, and command-line utilities, making it useful for writing, coding, and data manipulation.
+    This 30-minute beginner-friendly session introduces Vim fundamentals in the context of research workflows, focusing on modal editing, navigation, and core commands. Participants will learn practical techniques to navigate and edit files, and begin building a flexible workflow for coding and text-based research tasks.
+- id: 106
+  title: A Basic Guide to Data Visualisation Using ggplot2
+  themes:
+  - Hands-on workshop
+  speakers:
+  - 201
+  hidden: false
+  description:
+- id: 107
+  title: 'TBC'
   themes: []
-  id: 401
-  speakers: 
-  hidden: true
-  description: 
--
+  speakers:
+  hidden: false
+  description:
+- id: 108
+  title: Who tips more? Find out with a hands-on Python visualization workshop
+  themes:
+  - Informational talk
+  speakers:
+  - 202
+  hidden: false
+  description: Often times a pattern or trend is hidden in data, but can you always
+    spot it? A lot of times, data alone does not tell the whole story. In this hands-on
+    session we will use a real world dataset on restaurant tipping behavior and find
+    out whether bigger tables tip more generously, whether day of the week influences
+    tipping and so on by creating different plots to visualise relationships between
+    data. We will run cells in Google Colab to get instant charts, plots and visually
+    see how the elements of data are related and how they influence each other.
+- id: 109
+  title: Hello reproducibility! Build your first Nextflow workflow
+  themes:
+  - Hands-on workshop
+  speakers:
+  - 203
+  hidden: false
+  description: Reproducibility shouldn’t be this mysterious thing we all aim for but
+    rarely achieve. In this hands-on session, we’ll go through the basics of Nextflow
+    using the “Hello Nextflow” tutorial as a starting point. You’ll build a simple
+    pipeline step by step, see how processes fit together, and get a feel for how
+    data moves through a workflow. The goal is to show how Nextflow helps you organise
+    your analyses so they can be run again, shared, and scaled without everything
+    breaking. If you’ve ever struggled with “it worked on my machine,” this session
+    is for you.
+- id: 110
+  title: 'Data Linkage: Unlocking Research Insights with the WA Data Linkage System
+    (WADLS)'
+  themes:
+  - Informational talk
+  speakers:
+  - 204
+  hidden: false
+  description: Data linkage transforms siloed datasets into a powerful, interconnected
+    evidence base. This gives you the power to explore relationships between isolated
+    datasets, opening the door to questions you could never answer otherwise. The
+    Western Australian Data Linkage System (WADLS), based at the Department of Health,
+    is among the most comprehensive and high‑quality linkage systems worldwide. It
+    routinely integrates data from a broad range of Health and non‑Health sources
+    and provides linked datasets to support research. This presentation will serve
+    as an introduction to data linkage for researchers - how it works, why it matters,
+    and how to access linked data.
+- id: 111
+  title: 'Metadata matters: practical FAIR skills every researcher needs'
+  themes:
+  - Hands-on workshop
+  speakers:
+  - 205
+  hidden: false
+  description: "Your research is only as valuable as your ability to find, understand,\
+    \ and reuse it, by you and others. Yet most researchers are never formally trained\
+    \ in creating high-quality metadata.\nThis highly practical, hands-on workshop\
+    \ introduces the fundamentals of research data management and the FAIR Principles\
+    \ (Findable, Accessible, Interoperable, Reusable), with real-world examples. The\
+    \ session focuses on building skills you can immediately apply to your own data\
+    \ outputs and use to help others improve theirs.\nParticipants will work directly\
+    \ with example datasets and are encouraged to bring their own to:\n• understand\
+    \ what makes metadata useful and why it’s often done poorly\n• learn how to write\
+    \ clear and reusable metadata \n• explore emerging approaches, including AI-assisted\
+    \ prompts, to support metadata creation\nBy the end of the session, you will leave\
+    \ with practical tools, templates, and confidence to improve your data practices,\
+    \ enhancing the visibility, impact, and longevity of your research."
+- id: 112
+  title: Applied data science for mining geochemistry with Python
+  themes:
+  - Hands-on workshop
+  speakers:
+  - 206
+  hidden: false
+  description: This hands-on workshop explores how Python and data science workflows
+    can support geochemical analysis in mining and environmental projects. Participants
+    will learn how to transform laboratory spreadsheets into analysis-ready datasets,
+    automate geochemical calculations and domain-specific plots used in the industry,
+    perform exploratory data analysis, and generate technical visualisations and reports.
+    The session emphasises reproducible workflows and transparent data processing
+    practices increasingly expected in both research and industry. Using realistic
+    datasets, attendees will gain practical experience with simple, interpretable
+    techniques that form the foundation of more advanced approaches such as machine
+    learning and deep learning. The workshop is designed for beginners and provides
+    a foundation for geoscientists interested in applying Python to environmental
+    and mining geochemistry.
+- id: 113
+  title: Efficient workflows in secure environments
+  themes:
+  - Hands-on workshop
+  speakers:
+  - 207
+  hidden: false
+  description:
+- id: 114
+  title: 'Meet People Where They Are: Designing Inclusive Research'
+  themes:
+  - Informational talk
+  speakers:
+  - 208
+  hidden: false
+  description: Inclusive research takes more than good intentions. In this session,
+    we share how Curtin's Engagement & Student Experience team made research participation
+    more inclusive. Drawing on user research from 2025, we’ll explore flexible online
+    and in-person methods, placement of feedback points where students already are,
+    and targeted recruitment and incentive options to reach diverse participants.
+    Walk away with practical ideas and food for thought for researchers seeking to
+    broaden participation through a user experience lens and beyond traditional research
+    frameworks.
+- id: 115
+  title: 'From Research to Relevance: Storytelling and communicating your work with
+    impact'
+  themes:
+  - Hands-on workshop
+  speakers:
+  - 209
+  hidden: false
+  description: Participants will transform their own research into a clear, audience-specific
+    narrative by structuring it as a story, adapting it for different audiences (e.g.
+    public, industry, policy), and refining their language to remove jargon while
+    maintaining credibility and expertise.
+- id: 116
+  title: Data movement (Globus/FileSender)
+  themes:
+  - Hands-on workshop
+  speakers:
+  - 210
+  hidden: false
+  description:
+- id: 117
+  title: 'Beyond Point-and-Click: Reproducible Statistical Workflows in Stata'
+  themes:
+  - Informational talk
+  speakers:
+  - 211
+  hidden: false
+  description: This session introduces Stata as a powerful tool for statistical analysis,
+    with a focus on how it supports reproducible research. Moving beyond point-and-click
+    workflows, it will explore how do-files enable you to automate analyses, and how
+    log files can be used to create a record of your work. Through live demonstrations,
+    you will learn how to structure analyses, manage data and generate results that
+    can be easily shared and reproduced. Designed for beginners or anyone curious
+    about using Stata, this interactive session will highlight how it can improve
+    efficiency, collaboration and research integrity.
+- id: 118
+  title: 'The invisible glue: Trust and Identity for research and innovation'
+  themes:
+  - Informational talk
+  speakers:
+  - 212
+  hidden: false
+  description: This session will discuss the purpose of the Australian Access Federation,
+    the value we add to the research and innovation ecosystem, and what tools and
+    services currently exist to support the research community. We will also discuss
+    our roadmap of infrastructure improvements and how the community can be involved
+    in co-designing future trust and identity infrastructure.
+- id: 119
+  title: 'Panel Discussion'
+  themes: []
+  speakers:
+  hidden: false
+  description:
+- id: 120
+  title: 'Keynote'
+  themes:
+  - Keynote
+  speakers:
+  - 102
+  hidden: false
+  description:
+- id: 121
+  title: 'Panel Discussion: AI in Research - what is coming'
+  themes: []
+  speakers:
+  hidden: false
+  description:
+- id: 122
+  title: AI in precision agriculture
+  themes:
+  - Hands-on workshop
+  speakers:
+  - 213
+  hidden: false
+  description:
+- id: 123
+  title: 'Sponsor (Gale): Gale Research Showcase & Gale Digital Scholar
+    Lab'
+  themes: []
+  speakers:
+  - 237
+  hidden: false
+  description:
+- id: 124
+  title: Value of human-in-the-loop AI for research
+  themes:
+  - Informational talk
+  speakers:
+  - 214
+  hidden: false
+  description: This session will discuss the importance of a human-in-the-loop (HITL)
+    approach to AI for research. HITL provides greater autonomy, responsibility, reliability
+    and transparency over how the AI works and its outputs, which are in accord with
+    the AI ethics principles in Australia and internationally. There will also be
+    a live demonstration of an AI platform that uses HITL machine learning on textual
+    data. The user can directly change the AI’s answers and improvements become immediately
+    and permanently part of the AI’s learning. Further advantages of this human-centred
+    AI platform include more flexibility, privacy, security, cost effectiveness and
+    environmental sustainability.
+- id: 125
+  title: Hands-on Introduction to CPU Parallel Programming with OpenMP.
+  themes:
+  - Hands-on workshop
+  speakers:
+  - 215
+  hidden: false
+  description: This hands-on workshop introduces OpenMP, a widely used shared-memory
+    parallel programming model. Participants will learn how to enable CPU parallelism
+    by creating and coordinating threads, managing data sharing, parallelising loops,
+    balancing workloads, and ensuring correct synchronisation. The session also covers
+    key OpenMP constructs and execution models. It is designed for participants with
+    prior experience in C, C++, or Fortran who want to improve performance through
+    parallel programming.
+- id: 126
+  title: 'Panel Discussion'
+  themes: []
+  speakers:
+  hidden: false
+  description:
+- id: 127
+  title: Sensor/wearable AI data integration
+  themes:
+  - Informational talk
+  speakers:
+  - 216
+  hidden: false
+  description:
+- id: 128
+  title: Social media analytics
+  themes:
+  - Informational talk
+  speakers:
+  - 217
+  hidden: false
+  description:
+- id: 129
+  title: 'Synthetic Data Generation Program'
+  themes:
+  - Informational talk
+  speakers:
+  - 218
+  hidden: false
+  description: |-
+    Launched in late 2022, Synthetic Data Generation (SDG) Program with WA Department of Health (the Department) aimed to improve data accessibility, expand data capacity, and reduce the time for data provisioning. After three years’ development, the Department has established a Synthetic Health Database including diverse categories of synthetic data products. In addition, the Department has endorsed the Synthetic Data Governance and Technical Guidelines which guided the practices of synthetic data management, governance, and applications. We would like to share with the researchers the insights of synthetic data generation using machine learning models and synthetic data application pathways.
+    In addition, the Department has endorsed the Synthetic Data Governance and Technical Guidelines which guided the practices of synthetic data management, governance, and applications. We would like to share with the researchers the insights of synthetic data generation using machine learning models and synthetic data application pathways.
+- id: 130
+  title: Exploring the Microbiome through the Virome for Biological Insight
+  themes:
+  - Informational talk
+  speakers:
+  - 219
+  hidden: false
+  description: ''
+- id: 131
+  title: 'Understanding Data as a Non-Digital Scholar: Confusion to Clarity'
+  themes:
+  - Informational talk
+  speakers:
+  - 220
+  hidden: false
+  description: Data literacy is not about coding or advanced analytics. It is about
+    the ability to understand, interpret, question, and communicate information in
+    meaningful ways. In today’s data-driven world the ability to understand and interpret
+    data is no longer limited to technical experts but to everyone. For non-digital
+    scholars, data literacy means using data as a tool to strengthen arguments, support
+    decision-making, and enhance understanding across different contexts. This talk
+    is designed to simplify data literacy by breaking down key concepts into accessible
+    and practical insights. It aims to build confidence by showing that meaningful
+    engagement with data does not require advanced technical skills, but rather a
+    clear understanding of how to interpret and apply information in research and
+    decision-making.
+- id: 132
+  title: 'Empowering Research Impact with AI: Practical Tools for Modern Communication'
+  themes:
+  - Hands-on workshop
+  speakers:
+  - 221
+  hidden: false
+  description: As research faces growing demands for visibility and real-world influence,
+    AI tools are transforming how findings are communicated. This 90-minute hands-on
+    workshop introduces accessible AI applications for crafting compelling abstracts,
+    visuals, summaries, public narratives, and audience-tailored outputs. Participants
+    will practice tools for drafting, editing, data visualisation, and ethical use
+    (addressing accuracy, bias, and attribution). With a focus on Gen Z researchers
+    - who are digital natives leading AI adoption in daily workflows - this session
+    equips attendees across disciplines to boost impact, funding, and outreach. No
+    prior AI experience needed; bring your laptop for interactive exercises.
+- id: 133
+  title: Sponsor (LabArchives)
+  themes: []
+  speakers:
+  hidden: false
+  description:
+- id: 134
+  title: Can AI Tell If You’re Empathic? Detecting Empathy from Text and Video Interactions
+  themes:
+  - Informational talk
+  speakers:
+  - 222
+  hidden: false
+  description: Empathy detection is an emerging topic at the intersection of natural
+    language processing, computer vision and psychology. In this presentation, we
+    explore how foundation models can address key barriers in this field. We will
+    see that large language models can guide smaller language models for text-based
+    empathy detection and achieve state-of-the-art results on benchmark tasks. Next,
+    we will explore uncertainty quantification in language modelling to enable robust
+    and trustworthy empathy computing systems. For video-based empathy detection,
+    we will discuss how tabular foundation models achieve strong accuracy and cross-subject
+    generalisation while respecting privacy constraints. We will conclude with potential
+    applications of such empathy detection systems across various real-life scenarios.
+- id: 135
+  title: Enhancing Research Efficiency with SCOPUS AI
+  themes:
+  - Hands-on workshop
+  speakers:
+  - 223
+  hidden: false
+  description: This 30-minute hands-on workshop introduces researchers to the practical
+    use of SCOPUS AI for improving literature searches and research analysis. Participants
+    will learn how to use AI-assisted tools to identify relevant publications, map
+    key themes, and generate concise research summaries. The session includes guided
+    exercises demonstrating how SCOPUS AI can help refine search strategies, uncover
+    emerging trends, and support evidence-based writing. Suitable for academics, postgraduates,
+    and research staff looking to integrate AI capabilities into their research workflow
+    for greater efficiency and insight.
+- id: 136
+  title: 'Keynote'
+  themes:
+  - Keynote
+  speakers:
+  - 103
+  hidden: false
+  description:
+- id: 137
+  title: Accelerate Your Research with Cloud Computing on the ARDC Nectar Research
+    Cloud
+  themes:
+  - Hands-on workshop
+  speakers:
+  - 224
+  hidden: false
+  description: "Don't let limited computing power slow down your research. The ARDC\
+    \ Nectar Research Cloud provides fast and scalable computing resources tailored\
+    \ specifically for research.\n\nWhether you need to run intensive data analyses\
+    \ and complex simulations, train AI and ML models, manage big data or collaborate\
+    \ seamlessly across institutions, Nectar gives you the computational power to\
+    \ scale up your work.\n\nJoin us for an interactive introduction to Nectar, where\
+    \ we'll cover:\n* What is cloud computing and how can it accelerate my research?\n\
+    * Real-world case studies powered by Nectar.\n* Guidance on accessing tutorials\
+    \ and ongoing support.\n* Live Q&A to answer your questions. \nNo cloud computing\
+    \ or coding experience is required to attend."
+- id: 138
+  title: 'Sponsor (Clarivate): Accessing and Analysing Research Trends with Python/R and Academic APIs'
+  themes: []
+  speakers:
+  - 236
+  hidden: false
+  description:
+- id: 139
+  title: 'Work Smarter, Not Harder: The Researcher’s Guide to national digital research
+    tools, services and training'
+  themes:
+  - Informational talk
+  speakers:
+  - 225
+  hidden: false
+  description: "Discover how Australia’s National Research Infrastructure (NRI) can\
+    \ support you in your research journey. NRI is a network of tools, data platforms\
+    \ and expert support designed to make research easier and more effective. \n\n\
+    Through a series of lightning talks, you will be introduced to key NRI tools and\
+    \ services, including high performance computing, national scale data platforms,\
+    \ bioinformatics, data linkage, high-quality data assets and cloud computing.\
+    \ You will learn how these can help you optimise your workflow, overcome common\
+    \ research challenges and save time on routine tasks.\n\nYou will also find out\
+    \ where to access training and support, so you can confidently use these national\
+    \ resources to accelerate your research."
+- id: 140
+  title: Facilitating change / communities of practice
+  themes:
+  - Hands-on workshop
+  speakers:
+  - 226
+  hidden: false
+  description:
+- id: 141
+  title: 'DALiuGE: A Scientific Workflow Eco-System for Small and (Very) Large Scale Processing'
+  themes:
+  - Informational talk
+  speakers:
+  - 227
+  hidden: false
+  description:
+- id: 142
+  title: 'Panel Discussion'
+  themes: []
+  speakers:
+  hidden: false
+  description:
+- id: 143
+  title: 'Sponsor (Forrest Research Foundation)'
+  themes: []
+  speakers:
+  - 235
+  hidden: false
+  description:
+- id: 144
+  title: 'Sponsor (ARDC): Digital Tools for HASS and GLAM research'
+  themes: []
+  speakers:
+  - 234
+  hidden: false
+  description:
+- id: 145
+  title: 'ResBaz Close'
+  themes: []
+  speakers:
+  - 231
+  hidden: false
+  description:

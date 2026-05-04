@@ -41,7 +41,7 @@
     - {abbr: "", title: "", url: ""}
   social: https://datascience.curtin.edu.au/about-us/our-people/professor-melanie-johnston-hollitt/
 -
-  id: 103
+  id: 104
   name: A/Prof. Belinda
   surname: Brown
   pronouns:
@@ -55,7 +55,7 @@
     - {abbr: "", title: "", url: ""}
   social: https://researchportal.murdoch.edu.au/esploro/profile/belinda_brown/
 -
-  id: 104
+  id: 105
   name: Dr Vivienne ‘Binyarn’
   surname: Hansen
   pronouns:
@@ -68,3 +68,383 @@
     - {abbr: "", title: "", url: ""}
     - {abbr: "", title: "", url: ""}
   social: 
+- id: 200
+  name: Jason
+  surname: Tadi
+  pronouns:
+  company:
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 201
+  name: Sean
+  surname: Buckley
+  pronouns:
+  company: Edith Cowan University
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 202
+  name: Poornima
+  surname: Marasini
+  pronouns:
+  company:
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 203
+  name: Kristina
+  surname: Gagalova
+  pronouns:
+  company: Curtin University
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 204
+  name: Jade
+  surname: Hallam
+  pronouns:
+  company: WA Department of Health
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 205
+  name: Fatima
+  surname: Naim
+  pronouns:
+  company: Curtin University
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 206
+  name: Yalimay
+  surname: Jimenez
+  pronouns:
+  company:
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 207
+  name: Kate
+  surname: Miller
+  pronouns:
+  company: University of Western Australia
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 208
+  name: Victoria
+  surname: Lee
+  pronouns:
+  company: Curtin University
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 209
+  name: Min
+  surname: Tan
+  pronouns:
+  company: CERI - Centre for Entrepreneurial Research and Innovation
+  title: Commercialisation Specialist
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 210
+  name: Sara
+  surname: King
+  pronouns:
+  company: AARNet
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 211
+  name: Claire
+  surname: Hulcup
+  pronouns:
+  company: Curtin University
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 212
+  name: Sarah
+  surname: Thomas
+  pronouns:
+  company: Australian Access Federation Ltd 
+  title: Portfolio Manager
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 213
+  name: Rajasree
+  surname:  Rajamohanan
+  pronouns:
+  company: Murdoch University
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 214
+  name: Michael
+  surname: Dizon
+  pronouns:
+  company: Curtin University
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 215
+  name: Ludovic
+  surname: Capelli
+  pronouns:
+  company: Pawsey Supercomputing Research Centre
+  title: Training and Education Manager
+  bio:
+  thumbnailUrl: LudovicCapelli.jpeg
+  rockstar: false
+  social:
+- id: 216
+  name: Tom
+  surname: Gedeon
+  pronouns:
+  company: Curtin University
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 217
+  name: Mingming
+  surname: Cheng
+  pronouns:
+  company: Curtin University
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 218
+  name: Sylvia
+  surname: Young
+  pronouns:
+  company: WA Department of Health
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 219
+  name: Patricia
+  surname: Agudelo-Romero
+  pronouns:
+  company: Telethon Kids Institute
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 220
+  name: Rupali
+  surname: Bhagat
+  pronouns:
+  company: Edith Cowan Univiersty
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 221
+  name: Alina
+  surname: Eshal
+  pronouns:
+  company:
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 222
+  name: Rakib
+  surname: Hasan
+  pronouns:
+  company: Curtin University
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 223
+  name: Marjolein
+  surname: Towler
+  pronouns:
+  company: Murdoch University
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 224
+  name: Meirian
+  surname: Lovelace-Tozer
+  pronouns:
+  company: ARDC
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 225
+  name: Ellen
+  surname: Lyrtzis
+  pronouns:
+  company: ARDC
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 226
+  name: Liz
+  surname: Stokes
+  pronouns:
+  company: ARDC
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 227
+  name: Andreas
+  surname: Wicenec
+  pronouns:
+  company:
+  title:
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 228
+  name: Alasdair
+  surname: Macdonald
+  pronouns:
+  company: Murdoch University
+  title: Director Research and Innovation Office
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 229
+  name: Michelle
+  surname: Duryea
+  pronouns:
+  company: Edith Cowan University
+  title: Associate Director, Research Analytics, Systems and Performance
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 230
+  name: Rochelle
+  surname: Fleming
+  pronouns:
+  company: Curtin University
+  title: Director, Research Partnerships
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 231
+  name: Scout
+  surname: Bell
+  pronouns:
+  company: Murdoch University
+  title: Manager, Digital and Research Services
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 232
+  name: Kaitlyn
+  surname: Houston
+  pronouns:
+  company: Murdoch University
+  title: Research Support Coordinator
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 233
+  name: Ranjodh B.
+  surname: Singh
+  pronouns:
+  company: Curtin University
+  title: Senior Lecturer
+  bio:
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 234
+  name: Mary
+  surname: Filsell
+  pronouns:
+  company: ARDC
+  title: Data Consultant
+  bio: 'Backed by over 20 years supporting and promoting research across HASS and STEM, Mary is passionate about connecting researchers with competitive advantage through data and driving excellence in their creation, analysis and retention of high-quality data assets. She supports universities and partners in SA, WA and NT as well as the HASS and Indigenous Research Data Commons.'
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 235
+  name: Louise
+  surname: Renwich
+  pronouns:
+  company: Forrest Research Foundation
+  title: Program and Partnerships Coordinator
+  bio: 
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 236
+  name: Pavel
+  surname: Kasyanov
+  pronouns:
+  company: Clarivate
+  title: Principal Technical Solutions Consultant
+  bio: 
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 237
+  name: Damian
+  surname: Almeida
+  pronouns:
+  company: Gale
+  title: Academic Engagement Manager
+  bio: 
+  thumbnailUrl:
+  rockstar: false
+  social:
