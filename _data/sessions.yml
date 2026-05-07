@@ -57,13 +57,13 @@
   hidden: false
   description:
 - id: 104
-  title: 'Keynote'
+  title: 'Keynote - What makes researchers thrive?'
   themes:
   - Keynote
   speakers:
   - 104
   hidden: false
-  description:
+  description: 'This presentation will reflect on the habits and behaviours that seem to distinguish researchers who flourish in the early stages of their career, and over the long term. Drawing on experience supervising research students and leading HDR programs, this talk explores what actually predicts growth and resilience in research careers; and why it is often not what people expect.'
 - id: 105
   title: Vim text editing for research
   themes:
@@ -83,11 +83,13 @@
   hidden: false
   description:
 - id: 107
-  title: 'TBC'
-  themes: []
+  title: 'Working with frequency mismatch between dependent and independent variables'
+  themes:
+  - Hands-on workshop
   speakers:
+  - 238
   hidden: false
-  description:
+  description: 'In finance research, one of the most significant issues is the inconsistency in the frequency of dependent and independent variables. This problem is more crucial when incorporating macroeconomic factors into research using financial indices whose data is mostly daily. Some scholars employ an interpolation process to address the issue; nevertheless, it can not restore the nature of macroeconomic data and makes the estimation biased. This hands-on workshop addresses this data frequency mismatch using a quantitative method called GARCH-MIDAS. It will demonstrate how to conduct the GARCH-MIDAS regression in an equation where the dependent variable is daily data, while the independent variable is monthly. The estimation is performed in the academic version of EViews 14.'
 - id: 108
   title: Who tips more? Find out with a hands-on Python visualization workshop
   themes:
@@ -513,5 +515,18 @@
   themes: []
   speakers:
   - 231
+  hidden: false
+  description:
+- id: 146
+  title: ''
+  themes: []
+  speakers:
+  hidden: false
+  description:
+- id: 147
+  title: 'Telling Stories, Saving Species: Elevating Publication Impact Through Narrative Storytelling'
+  themes: []
+  speakers:
+  - 201
   hidden: false
   description:

@@ -47,7 +47,7 @@
   pronouns:
   company: Murdoch University
   title: Dean Graduate Research
-  bio: "As Dean Graduate Research at Murdoch University, I lead strategic initiatives to enhance the higher degree by research experience with a focus on researcher development, and supervision quality. I am passionate about creating supportive environments for higher degree researchers. My research aims to develop and implement interventions that can enhance brain health in older adults. My research program integrates cognitive neuroscience, neuroimaging, exercise science, genetics, and biostatistics to characterise the impact of physical activity on the brain and understand the underlying mechanisms. The overall message from my body of research is that cognitive function, brain volume and dementia-related brain markers are changeable in later life, and physical activity is a factor that may contribute to enhancing optimal brain health profiles."
+  bio: "Associate Professor Belinda Brown is Dean of Graduate Research (Murdoch University) and a researcher in healthy ageing and dementia prevention. Her work focuses on how lifestyle factors such as physical activity, sleep, and health behaviours influence cognitive ageing and brain health across adulthood. Alongside her research program, she leads university-wide strategy and development for higher degree by research training and researcher development. Belinda has worked with HDR candidates and early career researchers across diverse disciplines, giving her a unique perspective on the realities of research careers. She is passionate about building supportive research cultures, and helping researchers develop the skills to thrive in academia and beyond."
   thumbnailUrl: BelindaBrown.jpg
   rockstar: true
   ribbon:
@@ -444,6 +444,16 @@
   pronouns:
   company: Gale
   title: Academic Engagement Manager
+  bio: 
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 238
+  name: Thuy
+  surname: Duong Le
+  pronouns:
+  company: Murdoch University
+  title: 
   bio: 
   thumbnailUrl:
   rockstar: false
