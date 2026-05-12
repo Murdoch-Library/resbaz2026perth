@@ -99,27 +99,27 @@
   rockstar: false
   social:
 - id: 203
-  name: Kristina
+  name: Dr. Kristina
   surname: Gagalova
   pronouns:
   company: Curtin University
   title:
-  bio:
+  bio: 'Double academic curriculum with one Master degrees in Bioinformatics and one in Biotechnology. Deep understanding of bioinformatics algorithms, programming and Next Generation Sequencing technologies. Solid basics in molecular biology and genetics. Experience in OMICS data analysis, machine learning and workflow implementation. A proven track of successful project delivery in the context of basic research. Extensive collaboration with researchers from different scientific background. Excellent English verbal and written communication skills.'
   thumbnailUrl: KristinaGagalova.jpeg
   rockstar: false
   social:
 - id: 204
-  name: Jade
+  name: Dr. Jade
   surname: Hallam
   pronouns:
   company: WA Department of Health
-  title:
+  title: 'Senior Data Engineer'
   bio:
-  thumbnailUrl: JadeHallam .jpeg
+  thumbnailUrl: JadeHallam.jpeg
   rockstar: false
   social:
 - id: 205
-  name: Fatima
+  name: Dr. Fatima
   surname: Naim
   pronouns:
   company: Curtin University
@@ -139,7 +139,7 @@
   rockstar: false
   social:
 - id: 207
-  name: Kate
+  name: Dr. Kate
   surname: Miller
   pronouns:
   company: University of Western Australia
@@ -174,9 +174,9 @@
   surname: King
   pronouns:
   company: AARNet
-  title:
-  bio:
-  thumbnailUrl:
+  title: Training and Engagement Lead
+  bio: 'Dr Sara King is the Training and Engagement Lead for AARNet. She is focused on outreach within the research sector, developing communities of interest around training and skills development in eResearch. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone.'
+  thumbnailUrl: SaraKing.jpeg
   rockstar: false
   social:
 - id: 211
@@ -190,13 +190,13 @@
   rockstar: false
   social:
 - id: 212
-  name: Sarah
-  surname: Thomas
+  name: Anurag
+  surname: Katariya
   pronouns:
   company: Australian Access Federation Ltd 
-  title: Portfolio Manager
+  title: Solutions Architect
   bio:
-  thumbnailUrl:
+  thumbnailUrl: AnuragKatariya.jpeg
   rockstar: false
   social:
 - id: 213
@@ -210,17 +210,17 @@
   rockstar: false
   social:
 - id: 214
-  name: Michael
+  name: Dr. Michael
   surname: Dizon
   pronouns:
   company: Curtin University
-  title:
-  bio:
-  thumbnailUrl:
+  title: Senior Lecturer
+  bio: 'Michael Anthony C. Dizon, PhD, is a Senior Lecturer and Co-Director of Research and Innovation at Curtin Law School. His principal area of research is law and ICT. He has held academic positions in New Zealand, the Netherlands, the United Kingdom and the Philippines, and previously worked as an ICT lawyer.'
+  thumbnailUrl: MichaelDizon.jpg
   rockstar: false
   social:
 - id: 215
-  name: Ludovic
+  name: Dr. Ludovic
   surname: Capelli
   pronouns:
   company: Pawsey Supercomputing Research Centre
@@ -230,42 +230,42 @@
   rockstar: false
   social:
 - id: 216
-  name: Tom
+  name: Prof. Tom
   surname: Gedeon
   pronouns:
   company: Curtin University
-  title:
-  bio:
-  thumbnailUrl:
+  title: AI Chair, Human-centric Advancements
+  bio: 'My research focus is on responsive and responsible AI: Responsive AI: Use of human behavioural and biometric data to create useful AI systems and Responsible AI: A privacy by design approach to control private and personal data used. I have developed human centred computing technologies which use advanced AI and sensors to predict human internal states such as stress, doubt, anger and so on, which are highly relevant to understanding people management. My goal is to use these techniques to enhance human capabilities, in applications such as training people with real time feedback, creating responsive user interfaces, and measuring team dynamics in real time.'
+  thumbnailUrl: TomGedeon.jpg
   rockstar: false
   social:
 - id: 217
-  name: Mingming
+  name: Prof. Mingming
   surname: Cheng
   pronouns:
   company: Curtin University
-  title:
-  bio:
-  thumbnailUrl:
+  title: Professor in Digital Marketing
+  bio: 'Professor Mingming Cheng is Professor in Digital Marketing and Director of the Social Media Research Lab at the School of Management and Marketing, Curtin University. Mingming is an award-winning researcher and educator with an international reputation in social media analytics and tourism.  His core research interests and expertise deal with Chinese outbound tourists with a strong focus on Chinese young generations, the sharing economy (e.g. Airbnb and Uber), data science (big data), sustainable tourism and social media marketing. Mingming is deeply committed to innovative research and teaching practices that create positive impacts on those involved. Mingming has won multiple prestigious teaching, research and engagement awards for his teaching and research excellence and impacts.  He is also a regular contributor to the mainstream media. Further information can be found in Mingming’s personal website: https://mingmingcheng.com/'
+  thumbnailUrl: MingmingCheng.png
   rockstar: false
   social:
 - id: 218
-  name: Sylvia
+  name: Dr. Sylvia
   surname: Young
   pronouns:
   company: WA Department of Health
-  title:
-  bio:
-  thumbnailUrl:
+  title: Lead Data Scientist
+  bio: Dr. Sylvia Young has been leading data science projects as the Lead Data Scientist at the Department of Health WA since 2022. Prior to this, Dr. Young had been an Assistant Professor in Bioinformatics and Biostatistics with the Centre for Medical Research at the University of Western Australia for eight years. She has a PhD degree in Computational Biology from La Trobe University, Victoria. 
+  thumbnailUrl: SylviaYoung.jpeg
   rockstar: false
   social:
 - id: 219
-  name: Patricia
+  name: Dr. Patricia
   surname: Agudelo-Romero
   pronouns:
   company: Telethon Kids Institute
-  title:
-  bio:
+  title: Senior Research Fellow in Bioinformatics
+  bio: 'Patricia Agudelo‑Romero is a Senior Research Fellow in Bioinformatics with a strong passion for uncovering how viruses shape human health. Her research focuses on the complex interactions between viruses, bacteria, and the human host—an area she views as central to understanding the origins of respiratory and immune diseases. At the Kids Research Institute Australia (The Kids) and The University of Western Australia, Patricia leads bioinformatics research that integrates metagenomics, transcriptomics, epigenetics, and systems biology. Her work aims to decode host–microorganism interactions in conditions such as asthma and cystic fibrosis, as well as to elucidate the role of breastfeeding in early microbial colonisation and protection against respiratory conditions. She has also developed EVEREST, an integrated computational platform for virome discovery and analysis, available in both Snakemake and Nextflow implementations.'
   thumbnailUrl: PatriciaAgudelo-Romero.jpeg
   rockstar: false
   social:
@@ -306,14 +306,14 @@
   company: Murdoch University
   title:
   bio:
-  thumbnailUrl:
+  thumbnailUrl: MarjoleinTowler.jpeg
   rockstar: false
   social:
 - id: 224
   name: Meirian
   surname: Lovelace-Tozer
   pronouns:
-  company: ARDC
+  company: Australian Research Data Commons (ARDC)
   title:
   bio:
   thumbnailUrl:
@@ -323,30 +323,30 @@
   name: Ellen
   surname: Lyrtzis
   pronouns:
-  company: ARDC
-  title:
-  bio:
-  thumbnailUrl:
+  company: Australian Research Data Commons (ARDC)
+  title: 'Skills Development Lead (NCRIS)'
+  bio: 'With a background in health and medical research and project management, Ellen supports the ARDC’s vision for advancing data-driven research by helping to bring national capability (NCRIS) together, foster collaboration and promote best practices in skills development and training for users of national research infrastructure.'
+  thumbnailUrl: EllenLytzis.webp
   rockstar: false
   social:
 - id: 226
   name: Liz
   surname: Stokes
   pronouns:
-  company: ARDC
-  title:
-  bio:
-  thumbnailUrl:
+  company: Australian Research Data Commons (ARDC)
+  title: 'Skills Development Lead (Trainer and Research Communities)'
+  bio: 'Liz advocates for trainers and connects global training communities to deliver a national skills advantage for Australian researchers. They lead the ARDC Carpentries Partnership, coordinate ResBaz digital skills festivals in Australia and contribute skills expertise to ARDC programs.'
+  thumbnailUrl: LizStokes.jpg
   rockstar: false
   social:
 - id: 227
-  name: Andreas
+  name: Prof. Andreas
   surname: Wicenec
   pronouns:
-  company:
-  title:
-  bio:
-  thumbnailUrl:
+  company: International Centre for Radio Astronomy Research (ICRAR)
+  title: Director of the Data Intensive Astronomy Program at ICRAR
+  bio: 'Professor at the University of Western Australia since 2010, leading the Data Intensive Astronomy Program (DIA) of the International Centre for Radio Astronomy Research (ICRAR) to research, design and implement Petabyte scale data flows and high performance scientific computing for the Square Kilometre Array, the Murchison Wide Field Array (MWA), the Australian SKA Pathfinder. During his graduate, post-graduate and post-doctoral appointments, he was involved in the software development and reduction of photometric and astrometric Tycho data from the ESA Hipparcos satellite. He joined the European Southern Observatory (ESO) in 1997 as an archive specialist and was involved in the final implementation of the archive for ESOs Very Large Telescope (VLT) and the ESO Imaging Survey. Between 2002 and 2010, he was employed as ESOs Archive Scientist and led the development group of the ALMA archive subsystem. Prof. Wicenec is also involved in the International Virtual Observatory Alliance (IVOA). His scientific interests and publications include high precision global astrometry, optical background radiation, stellar photometry, dynamics and evolution of planetary nebulae and observational survey astronomy and the related data management, scheduling and computational concepts.'
+  thumbnailUrl: AndreasWicenec.jpeg
   rockstar: false
   social:
 - id: 228
@@ -356,7 +356,7 @@
   company: Murdoch University
   title: Director Research and Innovation Office
   bio:
-  thumbnailUrl:
+  thumbnailUrl: AlasdairMacdonald.jpeg
   rockstar: false
   social:
 - id: 229
@@ -366,7 +366,7 @@
   company: Edith Cowan University
   title: Associate Director, Research Analytics, Systems and Performance
   bio:
-  thumbnailUrl:
+  thumbnailUrl: MichelleDuryea.webp
   rockstar: false
   social:
 - id: 230
@@ -376,7 +376,7 @@
   company: Curtin University
   title: Director, Research Partnerships
   bio:
-  thumbnailUrl:
+  thumbnailUrl: RochelleFleming.jpeg
   rockstar: false
   social:
 - id: 231
@@ -386,7 +386,7 @@
   company: Murdoch University
   title: Manager, Digital and Research Services
   bio:
-  thumbnailUrl:
+  thumbnailUrl: ScoutBell.jpeg
   rockstar: false
   social:
 - id: 232
@@ -396,16 +396,16 @@
   company: Murdoch University
   title: Research Support Coordinator
   bio:
-  thumbnailUrl:
+  thumbnailUrl: KaitlynHouston.jpg
   rockstar: false
   social:
 - id: 233
-  name: Ranjodh B.
+  name: Dr. Ranjodh B.
   surname: Singh
   pronouns:
   company: Curtin University
   title: Senior Lecturer
-  bio:
+  bio: 'Ranjodh is involved in teaching both undergraduate and postgraduate units in Data Analytics and Econometrics.'
   thumbnailUrl:
   rockstar: false
   social:
@@ -413,10 +413,10 @@
   name: Mary
   surname: Filsell
   pronouns:
-  company: ARDC
+  company: Australian Research Data Commons (ARDC)
   title: Data Consultant
   bio: 'Backed by over 20 years supporting and promoting research across HASS and STEM, Mary is passionate about connecting researchers with competitive advantage through data and driving excellence in their creation, analysis and retention of high-quality data assets. She supports universities and partners in SA, WA and NT as well as the HASS and Indigenous Research Data Commons.'
-  thumbnailUrl:
+  thumbnailUrl: MaryFilsell.jpg
   rockstar: false
   social:
 - id: 235
@@ -435,8 +435,8 @@
   pronouns:
   company: Clarivate
   title: Principal Technical Solutions Consultant
-  bio: 
-  thumbnailUrl:
+  bio: 'Pavel has worked with Clarivate for more than twenty years, sixteen of which he has spent specialising in the Web of Science and the suite of analytical tools built around it. He has extensive experience in scientific discovery workflows, research evaluation, and bibliometrics. Over the past five years, Pavel has also developed deep expertise in the Web of Science APIs, creating a range of Python applications and R scripts that showcase the power and versatility of programmatic access to research information.'
+  thumbnailUrl: PavelKasyanov.jpg
   rockstar: false
   social:
 - id: 237
@@ -446,7 +446,7 @@
   company: Gale
   title: Academic Engagement Manager
   bio: 
-  thumbnailUrl:
+  thumbnailUrl: DamienAlmeida.png
   rockstar: false
   social:
 - id: 238
@@ -460,12 +460,42 @@
   rockstar: false
   social:
 - id: 239
-  name: Sunil
+  name: Dr. Sunil
   surname: Govinnage
   pronouns:
   company: Curtin University
   title: 
-  bio: 
+  bio: 'Sunil Govinnage, PhD is a graduate of Curtin University Sustainability Policy (CUSP). Western Australia. Sunils current research focuses on mining regulations and sustainability. Further to his current research Sunil is interested in Public Policy, Good governance , & regulatory theory.Socio-Political issues of Sri Lanka, & Asia, Development and Environmental Economics. Sunil has an interdisciplinary background in a number of academic fields and over 20 years in Western AUstralian public service work experience. His work life includes primary health care, nutrition education, media relations, disaster management, IT system training, planning & development; contract and risk management and public policy analysis and implementation in Australia and overseas. Sunil is a published poet.'
+  thumbnailUrl: SunilGovinnage.webp
+  rockstar: false
+  social:
+- id: 240
+  name: Meirian
+  surname: Lovelace-Tozer
+  pronouns:
+  company: Australian Research Data Commons (ARDC)
+  title: Skills Development Lead (Services)
+  bio: With over 10 years of experience in education, Meirian is committed to making an impact through empowering Australian research communities with a competitive advantage. Meirian delivers training and resources that support researchers to effectively leverage ARDC services.
+  thumbnailUrl: MeirianLovelaceTozer.jpg
+  rockstar: false
+  social:
+- id: 241
+  name: Mzingisi
+  surname: Mqhum
+  pronouns:
+  company: Australian Urban Research Infrastructure Network (AURIN)  
+  title: Stakeholder Engagement Manager
+  bio: 'Strategic and forward-thinking Stakeholder Engagement Leader with over 20 years’ experience across government, academia, and industry. Expertise spans stakeholder engagement, project management, research, marketing, and communications, with a strong focus on building partnerships, enhancing user experiences, and driving collaborative initiatives. Recent work in research infrastructure and data services has supported national innovation through impactful engagement strategies, stakeholder mapping, and cross-functional collaboration. Proven ability to influence senior decision-makers, lead teams, and deliver outcomes aligned with strategic goals. Seeking senior leadership opportunities that leverage expertise in stakeholder strategy, data-driven innovation, and long-term partnership development.'
+  thumbnailUrl: MzingisiMqhum.webp
+  rockstar: false
+  social:
+- id: 242
+  name: TBC
+  surname: 
+  pronouns:
+  company: LabArchives
+  title: 
+  bio:
   thumbnailUrl:
   rockstar: false
   social:

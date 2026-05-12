@@ -211,13 +211,14 @@
     public, industry, policy), and refining their language to remove jargon while
     maintaining credibility and expertise.
 - id: 116
-  title: Data movement (Globus/FileSender)
+  title: How do I move my truckload of data?
   themes:
   - Hands-on workshop
+  - Sponsor
   speakers:
   - 210
   hidden: false
-  description:
+  description: 'Have you ever wondered why, thanks to your fast internet at home you can stream movies in UltraHD smoothly, but your data upload can be super slow? Sometimes sharing data with collaborators can be tedious, slow and frustrating. This workshop addresses some data handling solutions in a research context. The workshop will introduce some research data movement tools, with a hands-on introduction to FileSender and a peek into Globus, a service that enables large-scale data transfers. By the end of this workshop, you should be able to: (1) Understand various network and connectivity constraints, (2) Transfer large amounts of data via the network, (3) Search for more advanced options for data movement and know where to go for help. Come along and learn how to make data transfer easy and convenient for you.'
 - id: 117
   title: 'Beyond Point-and-Click: Reproducible Statistical Workflows in Stata'
   themes:
@@ -246,11 +247,16 @@
     our roadmap of infrastructure improvements and how the community can be involved
     in co-designing future trust and identity infrastructure.
 - id: 119
-  title: 'Panel Discussion'
-  themes: []
+  title: 'Panel Discussion: Research Assessment'
+  themes:
+  - Panel
   speakers:
+  - 228
+  - 229
+  - 230
+  - 232
   hidden: false
-  description:
+  description: 'Research assessment frameworks are shifting, raising questions about how research quality and impact are defined, measured, and defended. This panel explores how universities currently assess research success, and how emerging approaches (including policy and practice impact, industry and community engagement, open research, and use beyond academia) may reshape evaluation in the future. Panellists will discuss what evidence matters for career progression, impact, and funding, and how to balance changing frameworks with strong fundamental research practices. Chaired by Kaitlyn Houston (Murdoch University)'
 - id: 120
   title: 'Keynote'
   themes:
@@ -261,10 +267,15 @@
   description:
 - id: 121
   title: 'Panel Discussion: AI in Research - what is coming'
-  themes: []
+  themes:
+  - Panel
   speakers:
+  - 102
+  - 214 
+  - 221
+  - 233
   hidden: false
-  description:
+  description: 'As AI tools become embedded in research practice, questions are emerging about impact, ethics, authorship, and the changing role of researchers themselves. This panel explores what’s coming next for AI in research deliverables, communication, and data science. Panellists will discuss how AI is being used to support writing, visualisation, interpretation, and public engagement, alongside human‑in‑the‑loop (HITL) approaches. The session invites perspectives on AI ethics, research workflows, and how researchers can adopt AI critically and responsibly for research impact and innovation. Chaired by Dr. Ranjodh B. Singh (Curtin University)'
 - id: 122
   title: AI in precision agriculture
   themes:
@@ -274,13 +285,13 @@
   hidden: false
   description:
 - id: 123
-  title: 'Sponsor (Gale): Gale Research Showcase & Gale Digital Scholar
-    Lab'
-  themes: []
+  title: 'Transforming Archives into Data with Gale’s Digital Scholar Lab'
+  themes: 
+  - Sponsor
   speakers:
   - 237
   hidden: false
-  description:
+  description: 'The Gale Digital Scholar Lab provides a transformative platform for teaching and learning by integrating digital humanities methodologies with primary source archives. By enabling students and researchers to curate, clean, and analyze large datasets of historical texts, the Lab fosters critical thinking, data literacy, and interdisciplinary research skills. Its user-friendly tools for text mining, sentiment analysis, and visualization empower learners to uncover new insights while engaging directly with authentic primary materials.'
 - id: 124
   title: Value of human-in-the-loop AI for research
   themes:
@@ -326,13 +337,13 @@
   hidden: false
   description:
 - id: 128
-  title: Social media analytics
+  title: 'Social Media Analytics: From TikTok to Human Insights'
   themes:
   - Informational talk
   speakers:
   - 217
   hidden: false
-  description:
+  description: 'Social media has evolved from a communication tool into a powerful part of everyday life, shaping how people interact, make decisions, and express themselves. At the same time, the vast amount of multimodal and largely unstructured data generated on these platforms presents significant challenges for analysis. This session unpacks the social media analytics workflow, from data collection and analysis to the generation of meaningful insights. Drawing on examples from digital multimodal data, the session explores how social media can serve as a rich source for understanding human behaviour and social phenomena. By bridging data-driven methods with social science perspectives, the session demonstrates how valuable human insights can be extracted from complex online environments.'
 - id: 129
   title: 'Synthetic Data Generation Program'
   themes:
@@ -386,11 +397,13 @@
     equips attendees across disciplines to boost impact, funding, and outreach. No
     prior AI experience needed; bring your laptop for interactive exercises.
 - id: 133
-  title: Sponsor (LabArchives)
-  themes: []
+  title: 'FAIR, Attributed, Harmonized and AI-Ready by Design: Turning Instrument Output into a Strategic Institutional Asset'
+  themes: 
+  - Sponsor
   speakers:
+  - 242
   hidden: false
-  description:
+  description: 'LabArchives Introduces Luma Lab Connect — Enterprise Research Data Management (RDM) Gateway for Shared Resources. Academic and Research institutions are not short on data. They are short on attribution, continuity, context, standardization and institutional visibility across the data their Shared Research Resources and lab-owned instruments already generate. Join LabArchives for a webinar on how the Luma Lab Connect service is designed to help institutions aggregate, harmonize, standardize, and govern instrument data to support reproducibility, grant funding & accountability, FAIR readiness, AI-readiness, and stronger operational intelligence - without rip-and-replace infrastructure changes.'
 - id: 134
   title: Can AI Tell If You’re Empathic? Detecting Empathy from Text and Video Interactions
   themes:
@@ -437,7 +450,7 @@
   themes:
   - Hands-on workshop
   speakers:
-  - 224
+  - 240
   hidden: false
   description: "Don't let limited computing power slow down your research. The ARDC\
     \ Nectar Research Cloud provides fast and scalable computing resources tailored\
@@ -450,19 +463,29 @@
     \ and ongoing support.\n* Live Q&A to answer your questions. \nNo cloud computing\
     \ or coding experience is required to attend."
 - id: 138
-  title: 'Sponsor (Clarivate): Accessing and Analysing Research Trends with Python/R and Academic APIs'
+  title: 'Accessing and Analysing Research Trends with Python/R and Academic APIs'
   themes: []
   speakers:
   - 236
   hidden: false
-  description:
+  description: 'This session introduces participants to using academic APIs, including Web of Science Starter and Expanded APIs, to retrieve and analyse research metadata using ready-to-use Python and R templates. Participants will learn :
+ • how academic APIs return structured metadata
+ • how to make basic queries using existing Python/R templates
+ • how to extract common metadata fields (titles, keywords, authors, citation counts)
+ • how to interpret results for trend detection and generate simple visualisations of topic evolution using prebuilt examples. 
+ 
+    All examples are beginner friendly, and all code will be provided for post-workshop use. This session is cross-disciplinary and relevant across sciences, social sciences, and humanities.'
 - id: 139
   title: 'Work Smarter, Not Harder: The Researcher’s Guide to national digital research
     tools, services and training'
   themes:
   - Informational talk
   speakers:
-  - 225
+  - 240
+  - 210
+  - 215
+  - 207
+  - 241
   hidden: false
   description: "Discover how Australia’s National Research Infrastructure (NRI) can\
     \ support you in your research journey. NRI is a network of tools, data platforms\
@@ -473,15 +496,26 @@
     \ You will learn how these can help you optimise your workflow, overcome common\
     \ research challenges and save time on routine tasks.\n\nYou will also find out\
     \ where to access training and support, so you can confidently use these national\
-    \ resources to accelerate your research."
+    \ resources to accelerate your research.
+    Co-Speaker details
+      - Meirian Lovelace-Tozer, Skills Development Lead (Services), Australia Research Data Commons (ARDC)
+      - Sarah Thomas, Portfolio Manager, Australian Access Federation (AAF)
+      - Dr Sara King, Training and Engagement Lead, AARNet
+      - Mzingisi Mqhum, Stakeholder Engagement Manager, Australian Urban Research Infrastructure Network (AURIN)  
+      - Dr Ludovic Capelli, Training and Education Manager, Pawsey Supercomputing Research Centre 
+      - Dr Kate Miller, Coordinator, Senior Specialist, Science and Partnerships, Population Health Research Network (PHRN)
+    Contributed to content
+      - Dr Abduallah Shaikh, Digital Skills Development Manager, National Computational Infrastructure (NCI)
+      - Dr Paige Martin, Team Lead, User Training, ACCESS-NRI
+      - Dr Melissa Burke, Training Manager, Australian BioCommons"
 - id: 140
-  title: Facilitating change / communities of practice
+  title: 'Community choreography: Practical facilitation skills for collaborative researchers'
   themes:
   - Hands-on workshop
   speakers:
   - 226
   hidden: false
-  description:
+  description: 'A thriving research culture is only as strong as the community that supports it. Yet the essential soft skills required to facilitate teams, build Communities of Practice, and support your peers are rarely formally taught. Most of us end up learning these critical leadership skills by accident or through absolute disasters. This highly practical workshop introduces fundamentals of community facilitation for postgraduate students. We will explore a vital blend of pedagogy and performativity to get people engaged and keep them working together effectively. Drawing on evidence-based research and ARDC skills community mentoring strategies, this session builds skills you can immediately apply to uplift your own research networks. Participants will gain practical tips, peer-training guides and evocative metaphors such as the choreography of icebergs.'
 - id: 141
   title: 'DALiuGE: A Scientific Workflow Eco-System for Small and (Very) Large Scale Processing'
   themes:
@@ -491,9 +525,13 @@
   hidden: false
   description:
 - id: 142
-  title: 'Panel Discussion'
-  themes: []
+  title: 'Panel Discussion: Research to Impact - Communicating for Change'
+  themes:
+  - Panel
   speakers:
+  - 201
+  - 226
+  - 220
   hidden: false
   description:
 - id: 143
@@ -504,12 +542,16 @@
   hidden: false
   description:
 - id: 144
-  title: 'Sponsor (ARDC): Digital Tools for HASS and GLAM research'
-  themes: []
+  title: 'Digital Tools for HASS and GLAM research'
+  themes: 
+  - sponsor
   speakers:
   - 234
   hidden: false
-  description:
+  description: 'Are you a passionate researcher active in humanities, arts, social sciences (HASS) or Indigenous research? Would you like to learn about tools, platforms and services available right now that will accelerate your research? Join us for
+ • An overview of the ARDC’s HASS and Indigenous Research Data Commons
+ • An introduction to digital tools supporting HASS and Indigenous research in Australia with a focus on tools for text analytics, including offerings from the Language Data Commons of Australia (LDaCA) 
+ • An interactive discussion about Digital GLAM and HASS Tools & Services and what you are using.'
 - id: 145
   title: 'ResBaz Close'
   themes: []
@@ -559,5 +601,15 @@
   themes: 
   - Hands-on workshop
   speakers:
+  - 239
   hidden: false
   description: 'Since its formal endorsement by the United Nations General Assembly in 1987, following the Brundtland Report, Sustainable Development (SD) has become a dominant global policy framework. Its evolution has included key methodological shifts, notably the adoption of the Triple Bottom Line (TBL) in 1997 to integrate economic, social, and environmental dimensions. However, TBL has been widely critiqued for its limited capacity to address cultural contexts. This workshop critically examines these limitations and proposes the Quadruple Bottom Line (QBL) as an expanded framework, emphasising culture as an essential pillar for more inclusive and context-sensitive sustainability practice.'
+- id: 152
+  title: "Introduction to coding agents (Claude Code)"
+  themes:
+  - Informational talk
+  speakers:
+  - 200
+  hidden: false
+  description: 'This talk introduces coding agents, focusing on Claude Code. Coding agents are AI tools that use Large Language Models to interpret natural language and perform tasks. Agents can help researchers write code, analyse data, plan research, and prototype ideas. The session will show how Claude Code works and how it can be used in research workflows. It will demonstrate effective use of Claude Code and highlight its limitations.'
+
