@@ -176,13 +176,13 @@
     a foundation for geoscientists interested in applying Python to environmental
     and mining geochemistry.
 - id: 113
-  title: Efficient workflows in secure environments
+  title: 'When Data Connects: Improving Research with Linked Data'
   themes:
   - Hands-on workshop
   speakers:
   - 207
   hidden: false
-  description:
+  description: 'This presentation explores how linked administrative and routinely collected data can be used more effectively across research. It explains how linking datasets allows researchers to connect information from multiple sources, enabling richer, longitudinal, and more complete analyses. The talk highlights common barriers such as difficulty discovering what data exists, complex access processes, and limited early-stage visibility of available datasets. It introduces resources for researchers, including tools to improve data discoverability, access, and usability, guided support, and training to help researchers integrate linked data more easily into study design, analysis, and long-term research workflows.'
 - id: 114
   title: 'Meet People Where They Are: Designing Inclusive Research'
   themes:
@@ -530,3 +530,34 @@
   - 201
   hidden: false
   description:
+- id: 148
+  title: 'Carpentries: The Unix Shell'
+  themes: 
+  - Carpentries
+  - Hands-on workshop
+  speakers:
+  hidden: false
+  description:
+- id: 149
+  title: 'Carpentries: Version Control with Git'
+  themes: 
+  - Carpentries
+  - Hands-on workshop
+  speakers:
+  hidden: false
+  description:
+- id: 150
+  title: 'Carpentries: R for Reproducible Scientific Analysis'
+  themes: 
+  - Carpentries
+  - Hands-on workshop
+  speakers:
+  hidden: false
+  description:
+- id: 151
+  title: 'An Enquiry into the Triple Bottom Line of Sustainability'
+  themes: 
+  - Hands-on workshop
+  speakers:
+  hidden: false
+  description: 'Since its formal endorsement by the United Nations General Assembly in 1987, following the Brundtland Report, Sustainable Development (SD) has become a dominant global policy framework. Its evolution has included key methodological shifts, notably the adoption of the Triple Bottom Line (TBL) in 1997 to integrate economic, social, and environmental dimensions. However, TBL has been widely critiqued for its limited capacity to address cultural contexts. This workshop critically examines these limitations and proposes the Quadruple Bottom Line (QBL) as an expanded framework, emphasising culture as an essential pillar for more inclusive and context-sensitive sustainability practice.'

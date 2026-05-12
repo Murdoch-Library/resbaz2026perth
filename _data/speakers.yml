@@ -79,13 +79,13 @@
   rockstar: false
   social:
 - id: 201
-  name: Sean
+  name: Dr. Sean
   surname: Buckley
   pronouns:
   company: Edith Cowan University
   title:
-  bio:
-  thumbnailUrl:
+  bio: 'Sean is a conservation and ecological geneticist with a focus on understanding how evolutionary and genomic research can inform conservation management of biodiversity. His research spans population genetics, phylogeography, and adaptive genomics, with applications in conservation planning, conservation translocations (including genetic rescue), and threatened species recovery. He works across a range of Australian fauna - (currently) including freshwater fishes, marsupials, reptiles, and birds - using genomic tools to address real-world conservation challenges. As a science communicator, he is also passionate about making science accessible, inclusive, and engaging. He regularly communicates science through outreach talks, media contributions, and his long-running blog The G-CAT, which explores conservation, ecology, evolution and genetics. As the Edith Cowan University representative in the Pawsey Supercomputing Research Centre Champions Program, he is also passionate about supporting research staff and students to use and engage with high-performance computing capabilities.'
+  thumbnailUrl: SeanBuckley.png
   rockstar: false
   social:
 - id: 202
@@ -105,7 +105,7 @@
   company: Curtin University
   title:
   bio:
-  thumbnailUrl:
+  thumbnailUrl: KristinaGagalova.jpeg
   rockstar: false
   social:
 - id: 204
@@ -115,7 +115,7 @@
   company: WA Department of Health
   title:
   bio:
-  thumbnailUrl:
+  thumbnailUrl: JadeHallam .jpeg
   rockstar: false
   social:
 - id: 205
@@ -124,8 +124,8 @@
   pronouns:
   company: Curtin University
   title:
-  bio:
-  thumbnailUrl:
+  bio: 'Fatima Naim has been involved in agricultural research for the past decade. Fatima trained as chemist and went onto completing her PhD in plant metabolic engineering. Since then, she has worked on multiple projects including enhancing transgene longevity and developing precisely gene edited plants. At CCDM, she is a Foundation project leader focusing on dissecting the early phase of infection and recovery post disease disruption.'
+  thumbnailUrl: FatimaNaim.jpg
   rockstar: false
   social:
 - id: 206
@@ -135,7 +135,7 @@
   company:
   title:
   bio:
-  thumbnailUrl:
+  thumbnailUrl: YalimayJimenez.png
   rockstar: false
   social:
 - id: 207
@@ -143,9 +143,9 @@
   surname: Miller
   pronouns:
   company: University of Western Australia
-  title:
-  bio:
-  thumbnailUrl:
+  title: 'Senior Specialist, Science and Partnerships'
+  bio: 'Kate is PHRN’s Coordinator for Science and Partnerships. She implements strategic projects and establishes relationships with our partners, industry collaborations and participants. She has extensive experience facilitating training and developed the online Data Linkage Researcher Training and the Ethics and Data Linkage training provided by the PHRN. Previously, Kate worked at the Telethon Kids Institute as an epidemiologist with the Strep A Vaccine Global Consortium. In this role she led the development of standardised surveillance protocols to provide standardised case definitions for diseases caused by Strep A and guide researchers with the design and planning of clinical trials to measure vaccine efficacy and safety. Kate undertook her PhD at the UWA using linked data to explore the relationship between ultraviolet radiation and type 1 diabetes.'
+  thumbnailUrl: KateMiller.jpeg
   rockstar: false
   social:
 - id: 208
@@ -155,7 +155,7 @@
   company: Curtin University
   title:
   bio:
-  thumbnailUrl:
+  thumbnailUrl: VictoriaLee.jpeg
   rockstar: false
   social:
 - id: 209
@@ -165,7 +165,8 @@
   company: CERI - Centre for Entrepreneurial Research and Innovation
   title: Commercialisation Specialist
   bio:
-  thumbnailUrl:
+  thumbnailUrl: MinTan.jpeg
+  
   rockstar: false
   social:
 - id: 210
@@ -265,7 +266,7 @@
   company: Telethon Kids Institute
   title:
   bio:
-  thumbnailUrl:
+  thumbnailUrl: PatriciaAgudelo-Romero.jpeg
   rockstar: false
   social:
 - id: 220
@@ -275,7 +276,7 @@
   company: Edith Cowan Univiersty
   title:
   bio:
-  thumbnailUrl:
+  thumbnailUrl: RupaliBhagat.jpeg
   rockstar: false
   social:
 - id: 221
@@ -285,7 +286,7 @@
   company:
   title:
   bio:
-  thumbnailUrl:
+  thumbnailUrl: AlinaEshal.jpeg
   rockstar: false
   social:
 - id: 222
@@ -293,9 +294,9 @@
   surname: Hasan
   pronouns:
   company: Curtin University
-  title:
+  title: Associate Lecturer
   bio:
-  thumbnailUrl:
+  thumbnailUrl: RakibHasan.jpg
   rockstar: false
   social:
 - id: 223
@@ -453,6 +454,16 @@
   surname: Duong Le
   pronouns:
   company: Murdoch University
+  title: 
+  bio: 
+  thumbnailUrl:
+  rockstar: false
+  social:
+- id: 239
+  name: Sunil
+  surname: Govinnage
+  pronouns:
+  company: Curtin University
   title: 
   bio: 
   thumbnailUrl:
