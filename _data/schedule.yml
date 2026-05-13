@@ -122,14 +122,14 @@
     sessionIds:
     - 124
     - 125
-    - 146
+    - 144
     - 150
   - startTime: '13:30'
     endTime: '14:00'
     sessionIds:
     - 127
     - 125
-    - 146
+    - 144
     - 150
   - startTime: '14:00'
     endTime: '14:30'
@@ -227,7 +227,7 @@
     sessionIds:
     - 142
     - 146
-    - 144
+    - 146
     - 150
   - startTime: '16:30'
     endTime: '17:00'
