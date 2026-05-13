@@ -183,21 +183,6 @@
   - 207
   hidden: false
   description: 'This presentation explores how linked administrative and routinely collected data can be used more effectively across research. It explains how linking datasets allows researchers to connect information from multiple sources, enabling richer, longitudinal, and more complete analyses. The talk highlights common barriers such as difficulty discovering what data exists, complex access processes, and limited early-stage visibility of available datasets. It introduces resources for researchers, including tools to improve data discoverability, access, and usability, guided support, and training to help researchers integrate linked data more easily into study design, analysis, and long-term research workflows.'
-- id: 114
-  title: 'Meet People Where They Are: Designing Inclusive Research'
-  themes:
-  - Informational talk
-  speakers:
-  - 208
-  hidden: false
-  description: Inclusive research takes more than good intentions. In this session,
-    we share how Curtin's Engagement & Student Experience team made research participation
-    more inclusive. Drawing on user research from 2025, we’ll explore flexible online
-    and in-person methods, placement of feedback points where students already are,
-    and targeted recruitment and incentive options to reach diverse participants.
-    Walk away with practical ideas and food for thought for researchers seeking to
-    broaden participation through a user experience lens and beyond traditional research
-    frameworks.
 - id: 115
   title: 'From Research to Relevance: Storytelling and communicating your work with
     impact'
@@ -309,7 +294,7 @@
     AI platform include more flexibility, privacy, security, cost effectiveness and
     environmental sustainability.
 - id: 125
-  title: Hands-on Introduction to CPU Parallel Programming with OpenMP.
+  title: Hands-on Introduction to CPU Parallel Programming with OpenMP
   themes:
   - Hands-on workshop
   speakers:
@@ -578,24 +563,30 @@
   - Carpentries
   - Hands-on workshop
   speakers:
+  - 243
+  - 244
   hidden: false
-  description:
+  description: 'This hands-on session introduces researchers to the Unix command line — a powerful tool for automating repetitive tasks and managing data efficiently. No prior experience is required. Participants will learn to navigate the file system, work with files and directories, combine commands using pipes, and write simple shell scripts. By the end of the session, you will have the foundational skills to work faster and smarter with your data. https://swcarpentry.github.io/shell-novice'
 - id: 149
   title: 'Carpentries: Version Control with Git'
   themes: 
   - Carpentries
   - Hands-on workshop
   speakers:
+  - 243
+  - 244
   hidden: false
-  description:
+  description: 'This session introduces version control using Git — an essential skill for anyone working with code, data, or documents. Participants will learn how to track changes, collaborate with others, and maintain a clear history of their work. We will ll cover the basics of creating repositories, committing changes, and working with remote repositories on GitHub. Whether you are working solo or in a team, Git will transform how you manage your research projects. https://swcarpentry.github.io/git-novice/'
 - id: 150
   title: 'Carpentries: R for Reproducible Scientific Analysis'
   themes: 
   - Carpentries
   - Hands-on workshop
   speakers:
+  - 243
+  - 244
   hidden: false
-  description:
+  description: 'This session introduces researchers to R and RStudio for data analysis and visualisation. Using the Gapminder dataset as a practical example, participants will learn to load and manipulate data, create publication-quality plots with ggplot2, and write clean, reproducible analysis scripts. This session emphasises good coding practices that make your research transparent, shareable, and reproducible. https://swcarpentry.github.io/r-novice-gapminder/'
 - id: 151
   title: 'An Enquiry into the Triple Bottom Line of Sustainability'
   themes: 

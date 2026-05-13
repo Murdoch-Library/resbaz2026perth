@@ -148,16 +148,6 @@
   thumbnailUrl: KateMiller.jpeg
   rockstar: false
   social:
-- id: 208
-  name: Victoria
-  surname: Lee
-  pronouns:
-  company: Curtin University
-  title:
-  bio:
-  thumbnailUrl: VictoriaLee.jpeg
-  rockstar: false
-  social:
 - id: 209
   name: Min
   surname: Tan
@@ -263,7 +253,7 @@
   name: Dr. Patricia
   surname: Agudelo-Romero
   pronouns:
-  company: Telethon Kids Institute
+  company: The University of Western Australia / Telethon Kids Institute
   title: Senior Research Fellow in Bioinformatics
   bio: 'Patricia Agudelo‑Romero is a Senior Research Fellow in Bioinformatics with a strong passion for uncovering how viruses shape human health. Her research focuses on the complex interactions between viruses, bacteria, and the human host—an area she views as central to understanding the origins of respiratory and immune diseases. At the Kids Research Institute Australia (The Kids) and The University of Western Australia, Patricia leads bioinformatics research that integrates metagenomics, transcriptomics, epigenetics, and systems biology. Her work aims to decode host–microorganism interactions in conditions such as asthma and cystic fibrosis, as well as to elucidate the role of breastfeeding in early microbial colonisation and protection against respiratory conditions. She has also developed EVEREST, an integrated computational platform for virome discovery and analysis, available in both Snakemake and Nextflow implementations.'
   thumbnailUrl: PatriciaAgudelo-Romero.jpeg
@@ -497,5 +487,25 @@
   title: 
   bio:
   thumbnailUrl:
+  rockstar: false
+  social:
+- id: 243
+  name: Dr. Siobhon
+  surname: Egan
+  pronouns:
+  company: Murdoch University
+  title: Lecturer
+  bio: 'Siobhon Egan is an early career researcher and lecturer at Murdoch University working across human and animal health, with a focus on host-microbe interactions using multi-omic approaches. Her work spans tick-borne diseases, emerging zoonoses at the human-wildlife interface, and the gut-brain axis in healthy ageing. A certified Carpentries instructor, Siobhon is passionate about building data analytics skills in the research community. She was supported by the Australian Academy of Science to attend the 72nd Lindau Nobel Laureate Meeting and received the Sinnecker-Kunz Award for early career researchers.'
+  thumbnailUrl: SiobhonEgan.png
+  rockstar: false
+  social:
+- id: 244
+  name: Dr. Reika
+  surname: Masuda
+  pronouns:
+  company: Murdoch University
+  title: Bioinformatician
+  bio:
+  thumbnailUrl: ReikaMasuda.webp
   rockstar: false
   social:
