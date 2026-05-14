@@ -595,12 +595,3 @@
   - 239
   hidden: false
   description: 'Since its formal endorsement by the United Nations General Assembly in 1987, following the Brundtland Report, Sustainable Development (SD) has become a dominant global policy framework. Its evolution has included key methodological shifts, notably the adoption of the Triple Bottom Line (TBL) in 1997 to integrate economic, social, and environmental dimensions. However, TBL has been widely critiqued for its limited capacity to address cultural contexts. This workshop critically examines these limitations and proposes the Quadruple Bottom Line (QBL) as an expanded framework, emphasising culture as an essential pillar for more inclusive and context-sensitive sustainability practice.'
-- id: 152
-  title: "Introduction to coding agents (Claude Code)"
-  themes:
-  - Informational talk
-  speakers:
-  - 200
-  hidden: false
-  description: 'This talk introduces coding agents, focusing on Claude Code. Coding agents are AI tools that use Large Language Models to interpret natural language and perform tasks. Agents can help researchers write code, analyse data, plan research, and prototype ideas. The session will show how Claude Code works and how it can be used in research workflows. It will demonstrate effective use of Claude Code and highlight its limitations.'
-
