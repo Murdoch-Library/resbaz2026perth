@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/registration/", text: "Register"}
  #- {permalink: "/news/", text: "News"}
- - {link: "https://forms.office.com/Pages/ResponsePage.aspx?id=G0wNwHvPk063xxAROpvCMCUe-dU06CxCp2hdIOxOreRUREQzN1BQT0FNQ09aQ1BOR1RBUjVENUhaMSQlQCN0PWcu", text: "Get involved"}
+ #- {link: "https://forms.office.com/Pages/ResponsePage.aspx?id=G0wNwHvPk063xxAROpvCMCUe-dU06CxCp2hdIOxOreRUREQzN1BQT0FNQ09aQ1BOR1RBUjVENUhaMSQlQCN0PWcu", text: "Get involved"}
  #- {link: "", text: "Keep me informed"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
@@ -54,6 +54,7 @@ navigationLinks:
  - {permalink: "/information/", text: "Information"}
  - {permalink: "/partners/", text: "Sponsors"}
  - {permalink: "/cod/", text: "Code of Conduct"}
+ - {link: "https://www.linkedin.com/company/resbaz-perth/", text: "Updates"}
 # - {permalink: "/team/", text: "Team"}
 
 #bottomNavigationLinks:
