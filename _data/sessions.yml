@@ -42,17 +42,18 @@
   hidden: true
   description:
 - id: 102
-  title: Room 3 (Workshop/Hands On)
-  themes: []
+  title: 'Opening address'
+  themes:
+  - Welcome
   speakers:
+  - 101
   hidden: true
   description:
 - id: 103
-  title: 'Opening address & Welcome to Country'
+  title: 'Welcome to Country'
   themes:
-  - Keynote
+  - Welcome
   speakers:
-  - 101
   - 105
   hidden: false
   description:
@@ -565,6 +566,7 @@
   speakers:
   - 243
   - 244
+  - 215
   hidden: false
   description: 'This hands-on session introduces researchers to the Unix command line — a powerful tool for automating repetitive tasks and managing data efficiently. No prior experience is required. Participants will learn to navigate the file system, work with files and directories, combine commands using pipes, and write simple shell scripts. By the end of the session, you will have the foundational skills to work faster and smarter with your data. https://swcarpentry.github.io/shell-novice'
 - id: 149
@@ -575,6 +577,7 @@
   speakers:
   - 243
   - 244
+  - 215
   hidden: false
   description: 'This session introduces version control using Git — an essential skill for anyone working with code, data, or documents. Participants will learn how to track changes, collaborate with others, and maintain a clear history of their work. We will ll cover the basics of creating repositories, committing changes, and working with remote repositories on GitHub. Whether you are working solo or in a team, Git will transform how you manage your research projects. https://swcarpentry.github.io/git-novice/'
 - id: 150

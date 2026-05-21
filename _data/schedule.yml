@@ -15,6 +15,10 @@
     sessionIds:
     - 1
   - startTime: '09:30'
+    endTime: '09:45'
+    sessionIds:
+    - 102
+  - startTime: '09:45'
     endTime: '10:00'
     sessionIds:
     - 103
