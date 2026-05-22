@@ -1,13 +1,13 @@
 - date: '2026-06-23'
   dateReadable: 23rd of June 2026
   tracks: &id001
-  - title: Room 1
+  - title: 'Room 1, 360.4.003 (The Rosemary van den Berg Room)'
     color: '#2E8B57'
-  - title: Room 2
+  - title: 'Room 2, 360.4.021'
     color: '#e91e63'
-  - title: Room 3
+  - title: 'Room 3, 360.4.031'
     color: '#FF8C00'
-  - title: Room 4
+  - title: 'Room 4, 360.4.020'
     color: '#aec2cb'
   timeslots:
   - startTime: '09:00'
