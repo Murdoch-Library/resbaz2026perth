@@ -262,14 +262,6 @@
   - 233
   hidden: false
   description: 'As AI tools become embedded in research practice, questions are emerging about impact, ethics, authorship, and the changing role of researchers themselves. This panel explores what’s coming next for AI in research deliverables, communication, and data science. Panellists will discuss how AI is being used to support writing, visualisation, interpretation, and public engagement, alongside human‑in‑the‑loop (HITL) approaches. The session invites perspectives on AI ethics, research workflows, and how researchers can adopt AI critically and responsibly for research impact and innovation. Chaired by Dr. Ranjodh B. Singh (Curtin University)'
-- id: 122
-  title: AI in precision agriculture
-  themes:
-  - Hands-on workshop
-  speakers:
-  - 213
-  hidden: false
-  description:
 - id: 123
   title: 'Transforming Archives into Data with Gale’s Digital Scholar Lab'
   themes: 
