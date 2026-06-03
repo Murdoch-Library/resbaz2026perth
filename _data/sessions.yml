@@ -567,8 +567,9 @@
   - 243
   - 244
   - 215
+  - 226
   hidden: false
-  description: 'This hands-on session introduces researchers to the Unix command line — a powerful tool for automating repetitive tasks and managing data efficiently. No prior experience is required. Participants will learn to navigate the file system, work with files and directories, combine commands using pipes, and write simple shell scripts. By the end of the session, you will have the foundational skills to work faster and smarter with your data. https://swcarpentry.github.io/shell-novice'
+  description: 'This hands-on session introduces researchers to the Unix command line — a powerful tool for automating repetitive tasks and managing data efficiently. No prior experience is required. In <a href="https://swcarpentry.github.io/shell-novice">the Carpentries Unix Shell</a> participants will learn to navigate the file system, work with files and directories, combine commands using pipes, and write simple shell scripts. By the end of the session, you will have the foundational skills to work faster and smarter with your data. Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. This lesson assumes you the bash shell installed on your computer, see the <a href="https://siobhonlegan.com/2026-06-23-Perth-ResBaz/">set up instructions</a>.'
 - id: 149
   title: 'Carpentries: Version Control with Git'
   themes: 
@@ -579,7 +580,7 @@
   - 244
   - 215
   hidden: false
-  description: 'This session introduces version control using Git — an essential skill for anyone working with code, data, or documents. Participants will learn how to track changes, collaborate with others, and maintain a clear history of their work. We will ll cover the basics of creating repositories, committing changes, and working with remote repositories on GitHub. Whether you are working solo or in a team, Git will transform how you manage your research projects. https://swcarpentry.github.io/git-novice/'
+  description: 'This session introduces version control using Git — an essential skill for anyone working with code, data, or documents. In <a href="https://swcarpentry.github.io/git-novice/">the Carpentries Version Control with Git</a> participants will learn how to track changes, collaborate with others, and maintain a clear history of their work. We will ll cover the basics of creating repositories, committing changes, and working with remote repositories on GitHub. Whether you are working solo or in a team, Git will transform how you manage your research projects.  Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. This lesson assumes you the bash shell and git installed on your computer, see the <a href="https://siobhonlegan.com/2026-06-23-Perth-ResBaz/">set up instructions</a>.'
 - id: 150
   title: 'Carpentries: R for Reproducible Scientific Analysis'
   themes: 
@@ -588,8 +589,9 @@
   speakers:
   - 243
   - 244
+  - 226
   hidden: false
-  description: 'This session introduces researchers to R and RStudio for data analysis and visualisation. Using the Gapminder dataset as a practical example, participants will learn to load and manipulate data, create publication-quality plots with ggplot2, and write clean, reproducible analysis scripts. This session emphasises good coding practices that make your research transparent, shareable, and reproducible. https://swcarpentry.github.io/r-novice-gapminder/'
+  description: 'This session introduces researchers to R and RStudio for data analysis and visualisation. <a href="https://swcarpentry.github.io/r-novice-gapminder/">The Carpentries R for Reproducible Scientific Analysis</a> provides an introduction to R for non-programmers using gapminder data. Participants will learn to load and manipulate data, create publication-quality plots with ggplot2, and write clean, reproducible analysis scripts. This session emphasises good coding practices that make your research transparent, shareable, and reproducible. Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. This lesson assumes you have R and RStudio installed on your computer, see the <a href="https://siobhonlegan.com/2026-06-23-Perth-ResBaz/">set up instructions</a>.'
 - id: 151
   title: 'An Enquiry into the Triple Bottom Line of Sustainability'
   themes: 
