@@ -230,13 +230,13 @@
   rockstar: false
   social:
 - id: 218
-  name: Dr. Sylvia
-  surname: Young
+  name: Ruby
+  surname: Gilroy
   pronouns:
   company: WA Department of Health
-  title: Lead Data Scientist
-  bio: Dr. Sylvia Young has been leading data science projects as the Lead Data Scientist at the Department of Health WA since 2022. Prior to this, Dr. Young had been an Assistant Professor in Bioinformatics and Biostatistics with the Centre for Medical Research at the University of Western Australia for eight years. She has a PhD degree in Computational Biology from La Trobe University, Victoria. 
-  thumbnailUrl: SylviaYoung.jpeg
+  title: Senior Data Scientist
+  bio: 
+  thumbnailUrl: RubyGilroy.jpeg
   rockstar: false
   social:
 - id: 219
