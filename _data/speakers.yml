@@ -129,12 +129,12 @@
   rockstar: false
   social:
 - id: 206
-  name: Yalimay
+  name: Dr. Yalimay
   surname: Jimenez
   pronouns:
   company:
   title:
-  bio:
+  bio: "Dr Yalimay Jimenez is a geologist and geochemist whose work spans academia, mineral exploration, environmental consulting, and mining operations. She holds a PhD in Applied Chemistry from Curtin University, with a background that brings together geology, environmental geochemistry, hydrogeology, and a touch of geomicrobiology. After leaving academia, Yalimay moved into geological exploration, mine waste/closure and acid mine drainage consulting, and operational geology in Western Australia. Along the way, data science became the thread connecting many of these areas, supporting data analysis, visualisation, reporting, and AI applications. Yalimay enjoys teaching and making technical topics approachable. This workshop reflects that interest by showing how Python can be used in practical, beginner-friendly ways to support mining and environmental geochemistry."
   thumbnailUrl: YalimayJimenez.png
   rockstar: false
   social:
