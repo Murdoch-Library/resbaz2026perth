@@ -82,7 +82,7 @@
   speakers:
   - 201
   hidden: false
-  description:
+  description: "Data visualisation is an important aspect of scientific research and communication, but the sheer volume of available tools and their often steep learning curves can be imposing to learners. One highly flexible and popular tool is ggplot2, an R package which maintains a specific syntax and grammar for constructing plots but can be challenging for students familiar with base R syntax to learn. This simplified tutorial will walk through the basic process of developing and editing a ggplot2 figure using example data, including data wrangling and helpful tricks for improving any figure. While a basic understanding of R is recommended, the step-by-step process of this tutorial will be suitable for students of varying levels of coding experience. Students are also encouraged to bring along their own data to explore, visualise and troubleshoot within the session."
 - id: 107
   title: 'Working with frequency mismatch between dependent and independent variables'
   themes:
@@ -549,7 +549,7 @@
   speakers:
   - 201
   hidden: false
-  description:
+  description: "Scientific papers are the lifeblood of academic research and a core component of a career in science. However, publishing papers is no easy feat, and many high-impact journals (e.g. Science, Nature, PNAS) require research to be conveyed in a clear, objective and widely appreciable manner that appeals to an array of disciplines. Here, I describe how aspects of narrative storytelling – the crafting of an engaging and logical story – can help elevate the impact of scientific papers to give better research outcomes. Although focused on elevating single-species conservation studies to broadly impactful research, the techniques discussed should apply to a range of subdisciplines and prospectively publishing students."
 - id: 148
   title: 'Carpentries: The Unix Shell'
   themes: 
