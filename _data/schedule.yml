@@ -114,9 +114,9 @@
     endTime: '12:00'
     sessionIds:
     - 121
-    - 146
-    - 123
     - 151
+    - 123
+    - 146
   - startTime: '12:00'
     endTime: '13:00'
     sessionIds:
