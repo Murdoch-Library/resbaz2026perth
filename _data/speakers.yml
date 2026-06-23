@@ -310,13 +310,13 @@
   rockstar: false
   social:
 - id: 226
-  name: Liz
-  surname: Stokes
+  name: Trish
+  surname: Radotic
   pronouns:
   company: Australian Research Data Commons (ARDC)
-  title: 'Skills Development Lead (Trainer and Research Communities)'
-  bio: 'Liz advocates for trainers and connects global training communities to deliver a national skills advantage for Australian researchers. They lead the ARDC Carpentries Partnership, coordinate ResBaz digital skills festivals in Australia and contribute skills expertise to ARDC programs.'
-  thumbnailUrl: LizStokes.jpg
+  title: 'Research Data Alliance (RDA) Regional Community Manager (Oceania and East Asia)'
+  bio: 'Trish Radotic is the Australian Research Data Commons (ARDC) Regional Community Manager for Oceania and East Asia. Based at the Curtin Institute for Data Science at Curtin University in Perth, Western Australia, she brings over 20 years of experience across IT, marketing, and international business. Trish holds a Bachelor of Commerce (Accounting and Finance), an MBA (Marketing and International Business), and a Graduate Diploma in Software Programming. In her role, she supports the RDA Secretariat’s mission to build the social and technical bridges that enable the open sharing and reuse of research data across technologies, disciplines, and borders. She is passionate about the transformative potential of technology and AI as enablers of innovation, and is deeply committed to advancing global collaboration through connection, sharing, networking, and community building.'
+  thumbnailUrl: TrishRadotic.jpg
   rockstar: false
   social:
 - id: 227
@@ -497,5 +497,15 @@
   title: Bioinformatician
   bio:
   thumbnailUrl: ReikaMasuda.webp
+  rockstar: false
+  social:
+- id: 245
+  name: John
+  surname: Brown
+  pronouns:
+  company: Curtin University
+  title: Coordinator, Research Services
+  bio:
+  thumbnailUrl: JohnBrown.jpg
   rockstar: false
   social:

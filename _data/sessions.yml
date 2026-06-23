@@ -487,13 +487,13 @@
       - Dr Paige Martin, Team Lead, User Training, ACCESS-NRI
       - Dr Melissa Burke, Training Manager, Australian BioCommons"
 - id: 140
-  title: 'Community choreography: Practical facilitation skills for collaborative researchers'
+  title: 'Solving Research Challenges Together: The Power of Global Communities in the Age of AI'
   themes:
   - Hands-on workshop
   speakers:
   - 226
   hidden: false
-  description: 'A thriving research culture is only as strong as the community that supports it. Yet the essential soft skills required to facilitate teams, build Communities of Practice, and support your peers are rarely formally taught. Most of us end up learning these critical leadership skills by accident or through absolute disasters. This highly practical workshop introduces fundamentals of community facilitation for postgraduate students. We will explore a vital blend of pedagogy and performativity to get people engaged and keep them working together effectively. Drawing on evidence-based research and ARDC skills community mentoring strategies, this session builds skills you can immediately apply to uplift your own research networks. Participants will gain practical tips, peer-training guides and evocative metaphors such as the choreography of icebergs.'
+  description: 'As research becomes increasingly data-intensive and artificial intelligence rapidly transforms research workflows, no single institution or researcher can solve emerging challenges alone. From interoperability and metadata standards to responsible AI implementation, today’s research landscape depends more than ever on collaboration across disciplines, organisations, and borders. This session introduces the Research Data Alliance (RDA), a global community-driven organisation bringing together researchers, technologists, data specialists, and infrastructure providers to collectively solve shared research data challenges. Through open working and interest groups, community-led recommendations, and internationally adopted outputs, RDA has become a powerful example of how collaborative communities can create practical solutions that strengthen the global research ecosystem. Using recent examples of RDA community work in artificial intelligence, open science, and research data infrastructure, this session explores how researchers can engage with international communities of practice, contribute to solving global challenges, and leverage collective intelligence to navigate an increasingly AI-driven research future. Learn how global research communities accelerate innovation, why community participation matters, and how you can become part of shaping the future of open and collaborative research through the RDA.'
 - id: 141
   title: 'DALiuGE: A Scientific Workflow Eco-System for Small and (Very) Large Scale Processing'
   themes:
@@ -508,10 +508,11 @@
   - Panel
   speakers:
   - 201
-  - 226
+  - 215
   - 220
+  - 245
   hidden: false
-  description: 'Research and research data generate valuable insights, but how do those insights move beyond disciplinary boundaries and into practice? This panel explores how research skills and expertise are translated across different contexts, and how we support learning to become meaningful real‑world action. Panellists will discuss communities of practice, facilitation, and skills‑focused learning spaces. This includes how complex information—data, evidence, and analysis—is communicated to practitioners, industry, policy makers, and communities. The discussion will consider how interpretation and sense‑making shape confidence and capability, how impact can be recognised and evaluated, and how institutions can create spaces for cross‑disciplinary skill‑building that leads to change.'
+  description: 'Research and research data generate valuable insights, but how do those insights move beyond disciplinary boundaries and into practice? This panel explores how research skills and expertise are translated across different contexts, and how we support learning to become meaningful real‑world action. Panellists will discuss communities of practice, facilitation, and skills‑focused learning spaces. This includes how complex information—data, evidence, and analysis—is communicated to practitioners, industry, policy makers, and communities. The discussion will consider how interpretation and sense‑making shape confidence and capability, how impact can be recognised and evaluated, and how institutions can create spaces for cross‑disciplinary skill‑building that leads to change. Chaired by John Brown (Curtin University)'
 - id: 143
   title: 'Sponsor (Forrest Research Foundation)'
   themes: []
