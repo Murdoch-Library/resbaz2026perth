@@ -599,3 +599,11 @@
   - 200
   hidden: false
   description: 'This talk introduces coding agents, focusing on Claude Code. Coding agents are AI tools that use Large Language Models to interpret natural language and perform tasks. Agents can help researchers write code, analyse data, plan research, and prototype ideas. The session will show how Claude Code works and how it can be used in research workflows. It will demonstrate effective use of Claude Code and highlight its limitations.'
+- id: 153
+  title: "HPC Australasia!"
+  themes:
+  - Informational talk
+  speakers:
+  - 246
+  hidden: false
+  description: 'The WHPC+ Australasia chapter was founded in 2019 and since then we have built a great community. In our next phase the chapter is focussing on how to support our partners to build diverse teams which will allow them to drive growth within their fields. We will present on some of the great programs we have run to serve our community and build connection across the HPC industry.'

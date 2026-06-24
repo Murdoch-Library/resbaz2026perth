@@ -509,3 +509,13 @@
   thumbnailUrl: JohnBrown.jpg
   rockstar: false
   social:
+- id: 246
+  name: Dr. Emily
+  surname: Barker
+  pronouns:
+  company: The University of Western Australia
+  title: HPC engineer
+  bio: "Emily supports the researchers at the University of Western Australia (UWA) to analyse big data and manage complex datasets by helping to run the High Performance Computing (HPC) system, training researchers in HPC and helping them expand their work to run at the Pawsey Supercomputing Centre. Emily is passionate about increasing diversity, equity and inclusion in STEM fields and as part of this she serves on committees and volunteers with the Royal Australian Chemical Institute, Women in HPC Australasia and the Innovator’s Tea Party."
+  thumbnailUrl: EmilyBarker.jpg
+  rockstar: false
+  social:
